@@ -1,4 +1,4 @@
-| My dog named Coby. | In memory of Coby
+| My dog named Coby.((pages/images/ThinkingCoby.jpg)) | In memory of Coby
 
 2004-2014 (11 years old)
 
