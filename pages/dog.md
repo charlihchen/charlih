@@ -14,9 +14,9 @@ Thanks to Mandy, who kept him comfortable all those days.
 
 Coby had a strong mind even though he was in pain.
 
- Photo for Coby
+ [Photo for Coby](https://www.flickr.com/photos/29588146@N08/sets/72157607039160541)
 
- Video for Coby |
+ [Video for Coby](http://youtu.be/b8-GGPeYV8U?list=UUpGvtruDR3AmTqgvIF6dXyg)
 | --- | --- |
 
 | My dog named Tola. | In memory of Tola
@@ -34,9 +34,9 @@ days.
 
 Tola was very calm even though he was in pain.
 
- Photo for Tola
+ [Photo for Tola](https://www.flickr.com/photos/29588146@N08/albums/72157628087675225)
 
- Video for Tola |
+ [Video for Tola](https://youtu.be/eKdPCGNSBsw)
 | --- | --- |
 
 | My dog named Mi-T. | In memory of Mi-T
@@ -56,9 +56,9 @@ Mi-T had her last breath after her heart stopped beating.
 
 She was a diligent survivor against aging.
 
- Photo for Mi-T
+ [Photo for Mi-T](https://www.flickr.com/photos/29588146@N08/albums/72157607039451551)
 
- Video for Mi-T |
+ [Video for Mi-T](https://youtu.be/r5u9Y1HH0Gg)
 | --- | --- |
 
 | My dog named DiDi. | In memory of DiDi
@@ -78,10 +78,10 @@ DiDi had his last breath after his heart stopped beating.
 
 He was a diligent survivor against aging.
 
- Photo for DiDi
+ [Photo for DiDi](https://flic.kr/s/aHsjwRVuh8)
 
- Video for DiDi |
-| --- | --- |
+ [Video for DiDi](https://youtu.be/7Za2KF55mXk?si=fdhhywWOvCTXhR9k)
 
 [伍思凱-這邊那邊4Mi-T.mkv (For Mitty)](https://youtu.be/r5u9Y1HH0Gg)
- [Video for Mi-T, Tola, and DiDi](https://youtu.be/ijgLXh9cJOk)
+
+[Video for Mi-T, Tola, and DiDi](https://youtu.be/ijgLXh9cJOk)
