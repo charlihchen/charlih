@@ -24,7 +24,7 @@ exports:
 
 {numref}`photo` shows dog picture.
 
-```{figure} ../images//dog/ThinkingCoby.jpg
+```{figure} ../images/dog/ThinkingCoby.jpg
 :name: Coby
 :alt: My dog name
 
@@ -55,7 +55,7 @@ Coby had a strong mind even though he was in pain.
 
 {numref}`photo` shows dog picture.
 
-```{figure} ../images//dog/Tola.jpg
+```{figure} ../images/dog/Tola.jpg
 :name: Tola
 :alt: My dog name
 
@@ -85,7 +85,7 @@ Tola was very calm even though he was in pain.
 
 {numref}`photo` shows dog picture.
 
-```{figure} ../images//dog/IMG_3187-scaled.jpg
+```{figure} ../images/dog/IMG_3187-scaled.jpg
 :name: Mi-T
 :alt: My dog name
 
@@ -117,7 +117,7 @@ She was a diligent survivor against aging.
 
 {numref}`photo` shows dog picture.
 
-```{figure} ../images//dog/DiDi2025.jpg
+```{figure} ../images/dog/DiDi2025.jpg
 :name: Didi
 :alt: My dog name
 
