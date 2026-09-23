@@ -12,7 +12,11 @@ Welcome to my _**Personal Website**_. This website contains my personal info..
 
 [News](/news) | [Blog](/blog) | [Event](/event) | [DIY](/DIY) | [EV](/EV) | [AI](/AI) | [Shop](/shop) | [Game](/game) | [Dog](pages/dog.md){:target="_blank"} | [Project](/project) | [About](/about) | [Social](/social) | [Search](/search) | [Menu)(/menu)
 
-Note: The {:target="_blank"} syntax is not supported in all Markdown environments. For example, it does not work on GitHub (GitHub Flavored Markdown).
+Note: The {:target="_blank"} syntax is not supported in all Markdown environments. 
+
+For example, it does not work on GitHub (GitHub Flavored Markdown).
+
+Solution: <html><a href="pages/dog.md" target="_blank">Dog</a></html>
 
 ## Sub-Bookmarks
 
