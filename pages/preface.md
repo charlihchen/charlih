@@ -9,9 +9,9 @@ kernelspec:
   language: python
   name: python3
 title: Preface
-abstract: ""
+abstract: "Personal website"
 authors:
-  - name: Author Name
+  - name: Charlih Chen
 exports:
   - format: typst
     template: lapreprint-typst
@@ -20,16 +20,16 @@ exports:
 
 # Preface
 
-Welcome to this book. This preface provides an overview of what you will learn.
+Welcome to this personal website. This preface provides an overview of what you will learn.
 
-## Who This Book Is For
+## Who This Personal Website Is For
 
-This book is for anyone interested in the topic.
+This personal website is for anyone interested in the info. for Charlih Chen.
 
-## How to Use This Book
+## How to Use This Personal website
 
 Each chapter builds on the previous one. Start from the beginning and work your way through.
 
 ## Acknowledgements
 
-Thank you to everyone who contributed to this book.
+Thank you to everyone who contributed to this Personal website.

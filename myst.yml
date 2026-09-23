@@ -1,9 +1,11 @@
 version: 1
 project:
   title: Charlih Chen personal website
-  authors: Charlih Chen
-     - name: Charlih Chen
-  copyright: '2026'
+  authors:
+    - name: "Charlih Chen"
+      email: "charlih_chen@hotmail.com"
+      affiliations: "IT Helpdesk, Fortinet"
+  copyright: "©2026 Charlih Chen"
   exclude:
     - _build
     - Thumbs.db
@@ -53,10 +55,9 @@ site:
     logo_dark: logo.png
     favicon: fav.ico
     folders: true
-    style: custom.css
-    style: ./css/footer.css
+    style: custom.css    
     # analytics_google: G-XXX
-    hide_toc: true
+    # hide_toc: true
   actions:
     - title: RSS
       url: https://opengeos.org/myst-website-template/rss.xml
@@ -64,4 +65,6 @@ site:
   parts:
     primary_sidebar_footer: ''
     banner: Updates will be released soon!
-    footer: footer.md
+    # footer: footer.md
+    footer: Charlih Chen (c) 2026
+    # style: ./css/footer.css

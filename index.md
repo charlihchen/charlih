@@ -1,13 +1,56 @@
 ---
-title:Charlih Chen personal website
-subtitle: Blog
+title: Charlih Chen personal website
+subtitle: Personal Bookmarks
 ---
 
 ## Introduction
 
-Welcome to _**Website Title**_. This website contains all the personal info. in the website.
+Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ---
+# Bookmarks Toolbar (Yahoo! category style)
+
+News | Blog | Events | DIY | EV | AI | Shop | Game | Dog | Project | About | Social | Search | Menu
+
+## Sub-Bookmarks
+
+DIY - KTV
+
+DIY - PC
+
+EV - Tesla
+
+AI - ChatGPT
+
+AI - OpenAI
+
+Shop - Costco
+
+Shop - Amazon
+
+Shop - Temu
+
+Shop - Shopee
+
+Game - Pokemon GO
+
+Game - Microsoft Xbox
+
+Game - Sony PlayStation
+
+Game - Nintendo Switch
+
+Social - Facebook
+
+Social - YouTube
+
+Social - Instagram
+
+Social - Telegram
+
+Project - Indexbox (Scale up library index box for indexing every websites as possible)
+
+Project - Bopomo AKA Zhuyin
 
 ## Featured Projects
 
