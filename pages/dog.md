@@ -75,6 +75,8 @@ DiDi had his last breath after his heart stopped beating.
 
 He was a diligent survivor against aging.
 
+---
+
  [Photo for DiDi](https://flic.kr/s/aHsjwRVuh8)
 
  [Video for DiDi](https://youtu.be/7Za2KF55mXk?si=fdhhywWOvCTXhR9k)
