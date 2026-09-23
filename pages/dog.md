@@ -17,7 +17,6 @@ Coby had a strong mind even though he was in pain.
  [Photo for Coby](https://www.flickr.com/photos/29588146@N08/sets/72157607039160541)
 
  [Video for Coby](http://youtu.be/b8-GGPeYV8U?list=UUpGvtruDR3AmTqgvIF6dXyg)
-| --- | --- |
 
 | My dog named Tola. | In memory of Tola
 
@@ -37,7 +36,6 @@ Tola was very calm even though he was in pain.
  [Photo for Tola](https://www.flickr.com/photos/29588146@N08/albums/72157628087675225)
 
  [Video for Tola](https://youtu.be/eKdPCGNSBsw)
-| --- | --- |
 
 | My dog named Mi-T. | In memory of Mi-T
 
@@ -59,7 +57,6 @@ She was a diligent survivor against aging.
  [Photo for Mi-T](https://www.flickr.com/photos/29588146@N08/albums/72157607039451551)
 
  [Video for Mi-T](https://youtu.be/r5u9Y1HH0Gg)
-| --- | --- |
 
 | My dog named DiDi. | In memory of DiDi
 
