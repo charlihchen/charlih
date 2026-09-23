@@ -1,7 +1,7 @@
 version: 1
 project:
   title: Charlih Chen personal website
-   authors: Charlih Chen
+  authors: Charlih Chen
      - name: Charlih Chen
   copyright: '2026'
   exclude:
@@ -16,7 +16,7 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: opengeos/myst-website-template
+  github: charlihchen/charlih
   thebe:
     binder:
       repo: opengeos/myst-website-template

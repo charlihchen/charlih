@@ -1,11 +1,11 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title:Charlih Chen personal website
+subtitle: Blog
 ---
 
 ## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+Welcome to _**Website Title**_. This website contains all the personal info. in the website.
 
 ---
 
