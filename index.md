@@ -10,7 +10,7 @@ Welcome to my _**Personal Website**_. This website contains my personal info..
 ---
 # Bookmarks Toolbar (Yahoo! category style)
 
-News | Blog | Events | DIY | EV | AI | Shop | Game | Dog | Project | About | Social | Search | Menu
+News | Blog | Events | DIY | EV | AI | Shop | Game | [Dog](pages/dog.html) | Project | About | Social | Search | Menu
 
 ## Sub-Bookmarks
 
