@@ -18,6 +18,9 @@ exports:
     output: _build/exports/typst/
 ---
 
+#My dogs
+
+##Coby
 | My dog named [Coby](pages/images/ThinkingCoby.jpg). | In memory of Coby
 
 2004-2014 (11 years old)
@@ -38,6 +41,8 @@ Coby had a strong mind even though he was in pain.
 
  [Video for Coby](http://youtu.be/b8-GGPeYV8U?list=UUpGvtruDR3AmTqgvIF6dXyg)
 
+##Tola
+
 | My dog named Tola. | In memory of Tola
 
 2008-2019 (11 years old)
@@ -56,6 +61,8 @@ Tola was very calm even though he was in pain.
  [Photo for Tola](https://www.flickr.com/photos/29588146@N08/albums/72157628087675225)
 
  [Video for Tola](https://youtu.be/eKdPCGNSBsw)
+
+##Mi-T
 
 | My dog named Mi-T. | In memory of Mi-T
 
@@ -77,6 +84,8 @@ She was a diligent survivor against aging.
  [Photo for Mi-T](https://www.flickr.com/photos/29588146@N08/albums/72157607039451551)
 
  [Video for Mi-T](https://youtu.be/r5u9Y1HH0Gg)
+
+##DiDi
 
 | My dog named DiDi. | In memory of DiDi
 
