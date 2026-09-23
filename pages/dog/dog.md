@@ -18,9 +18,19 @@ exports:
     output: _build/exports/typst/
 ---
 
-#My dogs
+# My dogs
 
-##Coby
+## Coby
+
+{numref}`photo` shows dog picture.
+
+```{figure} ../images//dog/ThinkingCoby.jpg
+:name: Coby
+:alt: My dog name
+
+A dog name Coby.
+```
+
 | My dog named [Coby](pages/images/ThinkingCoby.jpg). | In memory of Coby
 
 2004-2014 (11 years old)
@@ -41,7 +51,16 @@ Coby had a strong mind even though he was in pain.
 
  [Video for Coby](http://youtu.be/b8-GGPeYV8U?list=UUpGvtruDR3AmTqgvIF6dXyg)
 
-##Tola
+## Tola
+
+{numref}`photo` shows dog picture.
+
+```{figure} ../images//dog/Tola.jpg
+:name: Tola
+:alt: My dog name
+
+A dog name Tola.
+```
 
 | My dog named Tola. | In memory of Tola
 
@@ -62,7 +81,16 @@ Tola was very calm even though he was in pain.
 
  [Video for Tola](https://youtu.be/eKdPCGNSBsw)
 
-##Mi-T
+## Mi-T
+
+{numref}`photo` shows dog picture.
+
+```{figure} ../images//dog/IMG_3187-scaled.jpg
+:name: Mi-T
+:alt: My dog name
+
+A dog name Mi-T.
+```
 
 | My dog named Mi-T. | In memory of Mi-T
 
@@ -85,7 +113,16 @@ She was a diligent survivor against aging.
 
  [Video for Mi-T](https://youtu.be/r5u9Y1HH0Gg)
 
-##DiDi
+## DiDi
+
+{numref}`photo` shows dog picture.
+
+```{figure} ../images//dog/DiDi2025.jpg
+:name: Didi
+:alt: My dog name
+
+A dog name Didi.
+```
 
 | My dog named DiDi. | In memory of DiDi
 
