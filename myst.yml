@@ -39,6 +39,9 @@ project:
     - title: Examples
       children:
         - file: pages/part02/first-example.md
+    - title: Dog
+      children:
+        - file: pages/dog/dog.md        
     - file: blog.md
       children:
         - file: tags/myst-markdown.md
