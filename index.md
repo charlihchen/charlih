@@ -24,6 +24,8 @@ DIY - KTV
 
 DIY - PC
 
+DIY - Index
+
 EV - Tesla
 
 AI - ChatGPT
