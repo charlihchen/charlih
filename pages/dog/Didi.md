@@ -24,7 +24,7 @@ exports:
 
 {numref}`photo-Didi` Didi.
 
-```{figure} ../images/dog/DiDi2025.jpg
+```{figure} ../../img/dog/DiDi2025.jpg
 :name: photo-Didi
 :alt: Didi
 
