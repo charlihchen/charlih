@@ -39,9 +39,12 @@ project:
     - title: Examples
       children:
         - file: pages/part02/first-example.md
-    - title: Dog
+    - title: DIY
       children:
-        - file: pages/dog/dog.md        
+        - file: pages/diy.md
+        - title: DIY
+      children:
+        - file: pages/diy/ktv.md    
     - file: blog.md
       children:
         - file: tags/myst-markdown.md
