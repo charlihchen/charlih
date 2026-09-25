@@ -20,6 +20,15 @@ exports:
 
 # My dogs
 
+{numref}`fig-sample` shows a sample bar chart generated with Matplotlib.
+
+```{figure} ../images/sample_figure.png
+:name: fig-sample
+:alt: A sample bar chart
+
+A sample bar chart showing values for five categories.
+```
+
 ## Coby
 
 {numref}`photo-Coby` Coby.
