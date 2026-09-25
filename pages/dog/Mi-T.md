@@ -24,7 +24,7 @@ exports:
 
 {numref}`photo-Mi-T` Mi-T.
 
-```{figure} ../images/dog/IMG_3187-scaled.jpg
+```{figure} ../../img/dog/IMG_3187-scaled.jpg
 :name: photo-Mi-T
 :alt: Mi-T
 
