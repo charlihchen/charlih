@@ -22,16 +22,16 @@ exports:
 
 ## Coby
 
-{numref}`photo` shows dog picture.
+{numref}`photo-Coby` Coby.
 
-```{figure} ../images/dog/ThinkingCoby.jpg
-:name: Coby
-:alt: My dog name
+```{figure} ../images/thinkingcoby.jpg
+:name: photo-Coby
+:alt: Coby
 
-A dog name Coby.
+Coby.
 ```
 
-| My dog named [Coby](pages/images/ThinkingCoby.jpg). | In memory of Coby
+| My dog named Coby. | In memory of Coby
 
 2004-2014 (11 years old)
 
@@ -53,13 +53,13 @@ Coby had a strong mind even though he was in pain.
 
 ## Tola
 
-{numref}`photo` shows dog picture.
+{numref}`photo-Tola` Tola.
 
 ```{figure} ../images/dog/Tola.jpg
-:name: Tola
-:alt: My dog name
+:name: photo-Tola
+:alt: Tola
 
-A dog name Tola.
+Tola.
 ```
 
 | My dog named Tola. | In memory of Tola
@@ -83,13 +83,13 @@ Tola was very calm even though he was in pain.
 
 ## Mi-T
 
-{numref}`photo` shows dog picture.
+{numref}`photo-Mi-T` Mi-T.
 
 ```{figure} ../images/dog/IMG_3187-scaled.jpg
-:name: Mi-T
-:alt: My dog name
+:name: photo-Mi-T
+:alt: Mi-T
 
-A dog name Mi-T.
+Mi-T.
 ```
 
 | My dog named Mi-T. | In memory of Mi-T
@@ -115,13 +115,13 @@ She was a diligent survivor against aging.
 
 ## DiDi
 
-{numref}`photo` shows dog picture.
+{numref}`photo-Didi` Didi.
 
 ```{figure} ../images/dog/DiDi2025.jpg
-:name: Didi
-:alt: My dog name
+:name: photo-Didi
+:alt: Didi
 
-A dog name Didi.
+Didi.
 ```
 
 | My dog named DiDi. | In memory of DiDi
