@@ -42,7 +42,6 @@ project:
     - title: DIY
       children:
         - file: pages/diy.md
-      children:
         - file: pages/diy/ktv.md    
     - title: Dog
       children:
