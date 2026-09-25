@@ -44,3 +44,9 @@ DIY KTV created by Charlih Chen so far :)
 
 | 3 | 黃于恩 溫妮 Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 47 |
 
+| 4 | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
+
+| 5 | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
+
+| 6 | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/yiqKcSb8L70) | Jun 21, 2025 | 22 |
+
