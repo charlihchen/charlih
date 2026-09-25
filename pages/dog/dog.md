@@ -71,7 +71,7 @@ Coby had a strong mind even though he was in pain.
 Tola.
 ```
 
-| My dog named [Tola](dog/Tola.md). | In memory of Tola
+| My dog named [Tola](Tola.md). | In memory of Tola
 
 2008-2019 (11 years old)
 
@@ -101,7 +101,7 @@ Tola was very calm even though he was in pain.
 Mi-T.
 ```
 
-| My dog named [Mi-T](dog/Mi-T.md). | In memory of Mi-T
+| My dog named [Mi-T](Mi-T.md). | In memory of Mi-T
 
 2005-2021 (17 years old)
 
@@ -133,7 +133,7 @@ She was a diligent survivor against aging.
 Didi.
 ```
 
-| My dog named [Didi](dog/Didi.md). | In memory of Didi
+| My dog named [Didi](Didi.md). | In memory of Didi
 
 2008-2025 (17 years old)
 
