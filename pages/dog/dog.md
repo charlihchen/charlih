@@ -117,7 +117,7 @@ She was a diligent survivor against aging.
 
 {numref}`photo-Didi` Didi.
 
-```{figure} ../../img/dog/DiDi2025.jpg
+```{figure} ../../img/dog/DiDi2025.JPG
 :name: photo-Didi
 :alt: Didi
 
