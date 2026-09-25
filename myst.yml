@@ -48,7 +48,6 @@ project:
       children:
         - file: pages/dog.md
     - file: blog.md
-    - title: Blog
       children:
         - file: tags/myst-markdown.md
         - file: tags/tutorial.md
