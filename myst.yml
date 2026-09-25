@@ -18,13 +18,13 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: charlihchen/charlih
-  thebe:
-    binder:
-      repo: opengeos/myst-website-template
-      provider: github
-      url: https://mybinder.org
-      ref: main
+#  github: charlihchen/charlih
+#  thebe:
+#    binder:
+#      repo: opengeos/myst-website-template
+#      provider: github
+#      url: https://mybinder.org
+#      ref: main
   bibliography:
     - pages/references.bib
   toc:
