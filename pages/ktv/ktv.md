@@ -28,9 +28,9 @@ DIY KTV created by Charlih Chen so far :)
 
 |:---+---------------+:-------+:-----+:-------------:+:------:|
 
-| 1 | | 邱振哲 | [哈囉](https://www.youtube.com/watch?v=bDpQe6I-oYs) | Sep 14, 2026 | 54 |
+| 1 | | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 54 |
 
-| 2 | | 中央少年廣播合唱團 | [送別](https://www.youtube.com/watch?v=T64lABTf854) | Sep 9, 2026 | 10 |
+| 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 10 |
 
 ## 2025
 
@@ -38,7 +38,7 @@ DIY KTV created by Charlih Chen so far :)
 
 |:---+---------------+:-------+:-----+:-------------:+:------:|
 
-| 1 | | 林憶蓮+林俊傑 | [江南](https://www.youtube.com/watch?v=aljggaOHjW0) | Nov 29, 2025 | 158 |
+| 1 | | 林憶蓮+林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 158 |
 
 | 2 | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 307 |
 
@@ -60,6 +60,10 @@ DIY KTV created by Charlih Chen so far :)
 
 ## 2024
 
+| No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
+
+|:---+---------------+:-------+:-----+:-------------:+:------:|
+
 | 1 | Lionel Richie feat Shania Twain | [Endless Love](https://youtu.be/wG3zJsM-CEM) | Oct 5, 2024 | 14 |
 
 | 2 | Debbie Gibson | [Lost in Your Eyes](https://youtu.be/OZkDLu89Ro0) | Sep 21, 2024 | 82 |
@@ -77,6 +81,10 @@ DIY KTV created by Charlih Chen so far :)
 | 8 | Quirky Pop | [Make It a Beautiful Day](https://youtu.be/_sS7iI3mlg4) | Jul 30, 2024 | 2685 |
 
 ## 2022
+
+| No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
+
+|:---+---------------+:-------+:-----+:-------------:+:------:|
 
 | 1 | Quirky Pop | [ Make It a Beautiful Day](https://youtu.be/pXFGrc-7nqo) | Jun 1, 2022 | 1259 |
 
