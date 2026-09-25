@@ -85,7 +85,7 @@ Tola was very calm even though he was in pain.
 
 {numref}`photo-Mi-T` Mi-T.
 
-```{figure} ../images/dog/IMG_3187-scaled.jpg
+```{figure} ../img/dog/IMG_3187-scaled.jpg
 :name: photo-Mi-T
 :alt: Mi-T
 
@@ -117,7 +117,7 @@ She was a diligent survivor against aging.
 
 {numref}`photo-Didi` Didi.
 
-```{figure} ../images/dog/DiDi2025.jpg
+```{figure} ../img/dog/DiDi2025.jpg
 :name: photo-Didi
 :alt: Didi
 
