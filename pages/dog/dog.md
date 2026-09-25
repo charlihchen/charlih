@@ -40,7 +40,7 @@ A sample bar chart showing values for five categories.
 Coby.
 ```
 
-| My dog named [Coby](dog/Coby.md). | In memory of Coby
+| My dog named [Coby](Coby.md). | In memory of Coby
 
 2004-2014 (11 years old)
 
