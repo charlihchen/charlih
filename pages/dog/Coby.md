@@ -24,7 +24,7 @@ exports:
 
 {numref}`photo-Coby` Coby.
 
-```{figure} ../images/thinkingcoby.jpg
+```{figure} ../images/ThinkingCoby.jpg
 :name: photo-Coby
 :alt: Coby
 
