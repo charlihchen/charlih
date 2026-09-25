@@ -49,6 +49,7 @@ project:
         - file: pages/dog.md
     - file: blog.md
       children:
+        - file: tags/Create website on GitHub note.md
         - file: tags/myst-markdown.md
         - file: tags/tutorial.md
         - file: tags/github-pages.md
