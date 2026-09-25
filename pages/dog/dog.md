@@ -31,7 +31,7 @@ exports:
 Coby.
 ```
 
-| My dog named Coby. | In memory of Coby
+| My dog named [Coby](Coby.md). | In memory of Coby
 
 2004-2014 (11 years old)
 
@@ -62,7 +62,7 @@ Coby had a strong mind even though he was in pain.
 Tola.
 ```
 
-| My dog named Tola. | In memory of Tola
+| My dog named [Tola](Tola.md). | In memory of Tola
 
 2008-2019 (11 years old)
 
@@ -92,7 +92,7 @@ Tola was very calm even though he was in pain.
 Mi-T.
 ```
 
-| My dog named Mi-T. | In memory of Mi-T
+| My dog named [Mi-T](Mi-T.md). | In memory of Mi-T
 
 2005-2021 (17 years old)
 
@@ -124,11 +124,11 @@ She was a diligent survivor against aging.
 Didi.
 ```
 
-| My dog named DiDi. | In memory of DiDi
+| My dog named [Didi](Didi.md). | In memory of Didi
 
 2008-2025 (17 years old)
 
-DiDi was sedated prior to euthanasia for his final moments
+Didi was sedated prior to euthanasia for his final moments
 
 around 11:44 PM on 6th Jan 2025, Monday.
 
@@ -137,16 +137,16 @@ His heart stopped beating at the moment,
 freeing him from his pain with internal organ failure over the week
 between 2024 and 2025.
 
-DiDi had his last breath after his heart stopped beating.
+Didi had his last breath after his heart stopped beating.
 
 He was a diligent survivor against aging.
 
- [Photo for DiDi](https://flic.kr/s/aHsjwRVuh8)
+ [Photo for Didi](https://flic.kr/s/aHsjwRVuh8)
 
- [Video for DiDi](https://youtu.be/7Za2KF55mXk?si=fdhhywWOvCTXhR9k)
+ [Video for Didi](https://youtu.be/7Za2KF55mXk?si=fdhhywWOvCTXhR9k)
 
 ---
 
 [伍思凱-這邊那邊4Mi-T.mkv (For Mitty)](https://youtu.be/r5u9Y1HH0Gg)
 
-[Video for Mi-T, Tola, and DiDi](https://youtu.be/ijgLXh9cJOk)
+[Video for Mi-T, Tola, and Didi](https://youtu.be/ijgLXh9cJOk)
