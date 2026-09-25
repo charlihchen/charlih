@@ -45,11 +45,11 @@ project:
         - file: pages/ktv/ktv.md    
     - title: Dog
       children:
-        - file: dog.md
-        - file: Coby.md
-        - file: Tola.md
-        - file: Mi-T.md
-        - file: Didi.md
+        - file: pages/dog/dog.md
+        - file: pages/dog/Coby.md
+        - file: pages/dog/Tola.md
+        - file: pages/dog/Mi-T.md
+        - file: pages/dog/Didi.md
     - file: blog.md
       children:
         - file: tags/Create website on GitHub note.md
