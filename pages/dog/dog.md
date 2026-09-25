@@ -122,7 +122,7 @@ She was a diligent survivor against aging.
 
  [Video for Mi-T](https://youtu.be/r5u9Y1HH0Gg)
 
-## DiDi
+## Didi
 
 {numref}`photo-Didi` Didi.
 
