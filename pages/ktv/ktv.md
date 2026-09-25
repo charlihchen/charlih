@@ -82,7 +82,7 @@ DIY KTV created by Charlih Chen so far :)
 
 ## 2022
 
-| No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
-|:---+---------------+:-------+:-----+:-------------:+:------:|
-| 1 | Quirky Pop | [ Make It a Beautiful Day](https://youtu.be/pXFGrc-7nqo) | Jun 1, 2022 | 1259 |
+| No | YouTube Cover | Singer     | Song                                                     | Uploaded Date | Viewed |
+|:--:+---------------+:-----------+:--------------------------------------------------------:+:-------------:+-------:|
+| 1  |               | Quirky Pop | [ Make It a Beautiful Day](https://youtu.be/pXFGrc-7nqo) | Jun 1, 2022   | 1259   |
 
