@@ -55,7 +55,7 @@ Coby had a strong mind even though he was in pain.
 
 {numref}`photo-Tola` Tola.
 
-```{figure} ../images/dog/Tola.jpg
+```{figure} ../img/dog/Tola.jpg
 :name: photo-Tola
 :alt: Tola
 
