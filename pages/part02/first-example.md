@@ -76,3 +76,8 @@ plt.show()
 ## Summary
 
 This example demonstrated the basic workflow.
+
+## 12
+
+| :mouse: | :cow: | :tiger: | :rabbit: | :dragon: | :snake: | :horse: | :sheep: | :monkey: | :rooster: | :dog: | :pig: |
+
