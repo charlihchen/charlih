@@ -95,3 +95,7 @@ Project - Bopomo AKA Zhuyin
 ::::
 
 ---
+
+## Social media
+
+![x](https://readmecodegen.vercel.app/api/social-icon?name=twitter&color=1da1f2&size=48)
