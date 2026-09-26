@@ -109,4 +109,4 @@ Project - Bopomo AKA Zhuyin
 ![telegram](https://readmecodegen.vercel.app/api/social-icon?name=telegram)
 ![whatsapp](https://readmecodegen.vercel.app/api/social-icon?name=whatsapp)
 ![slack](https://readmecodegen.vercel.app/api/social-icon?name=slack)
-
+![blogger](https://readmecodegen.vercel.app/api/social-icon?name=blogger)
