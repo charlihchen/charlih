@@ -100,7 +100,7 @@ Project - Bopomo AKA Zhuyin
 
 ![github](https://readmecodegen.vercel.app/api/social-icon?name=github)
 ![twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)
-![x](https://readmecodegen.vercel.app/api/social-icon?name=twitter&color=1da1f2&size=48)
+![x](https://readmecodegen.vercel.app/api/social-icon?name=x&color=1da1f2&size=48)
 ![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)
 ![facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)
 ![instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram)
