@@ -20,7 +20,7 @@ exports:
 
 # Preface
 
-Welcome to this personal website. This preface provides an overview of what you will learn.
+Welcome to this personal website. This preface is like a book's prologue to introduce what will be on the book.
 
 ## Who This Personal Website Is For
 
@@ -32,4 +32,4 @@ Each chapter builds on the previous one. Start from the beginning and work your 
 
 ## Acknowledgements
 
-Thank you to everyone who contributed to this Personal website.
+Thank you to everyone who visiting to this Personal website.
