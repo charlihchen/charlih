@@ -173,6 +173,27 @@ He was a diligent survivor against aging.
 小熊.
 ```
 
+## Mellow
+
+{numref}`photo-Mellow` Mellow.
+
+```{figure} ../L/images/Mellow.jpg
+:name: photo-Mellow
+:alt: Mellow
+
+Mellow.
+```
+## Amy
+
+{numref}`photo-Amy` Amy.
+
+```{figure} ../A/images/Amy.jpg
+:name: photo-Amy
+:alt: Amy
+
+Amy.
+```
+
 ## 大虎
 
 {numref}`photo-大虎` 大虎.
