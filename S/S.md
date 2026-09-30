@@ -24,4 +24,4 @@ exports:
 
 ## [Shop](Shop.md)
 
-## [Socail](Social.md)
+## [Social](Social.md)
