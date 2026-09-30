@@ -220,7 +220,7 @@ Hello.
 
 {numref}`photo-Tora` Tora.
 
-```{figure} ../T/images/Tola_Hello_Mi-T.jpg
+```{figure} ../T/images/Pict1246.jpg
 :name: photo-Tora
 :alt: Tora
 
