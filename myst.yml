@@ -61,11 +61,9 @@ project:
     - title: A
       children:
         - file: A/A.md
-          hidden: true
     - title: B
       children:
         - file: B/B.md
-          hidden: true
     - title: C
       children:
         - file: C/C.md
