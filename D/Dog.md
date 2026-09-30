@@ -156,8 +156,63 @@ He was a diligent survivor against aging.
 {numref}`photo-小白` 小白.
 
 ```{figure} ../../L/images/小白.jpg
-:name: photo-Didi
+:name: photo-小白
 :alt: 小白
 
 小白.
+```
+
+## 小熊
+
+{numref}`photo-小熊` 小熊.
+
+```{figure} ../../L/images/小熊_Mi-T.jpg
+:name: photo-小熊
+:alt: 小熊
+
+小熊.
+```
+
+## 大虎
+
+{numref}`photo-大虎` 大虎.
+
+```{figure} ../../D/images/大虎.jpg
+:name: photo-大虎
+:alt: 大虎
+
+大虎.
+```
+
+## Hello
+
+{numref}`photo-Hello` Hello.
+
+```{figure} ../../H/images/Hello.jpg
+:name: photo-Hello
+:alt: Hello
+
+Hello.
+```
+
+## Tora
+
+{numref}`photo-Tora` Tora.
+
+```{figure} ../../T/images/Tola_Hello_Mi-T.jpg
+:name: photo-Tora
+:alt: Tora
+
+Tora.
+```
+
+## Mi-T
+
+{numref}`photo-Mi-T` Mi-T.
+
+```{figure} ../../T/images/Tola_Hello_Mi-T.jpg
+:name: photo-Mi-T
+:alt: Mi-T
+
+Mi-T.
 ```
