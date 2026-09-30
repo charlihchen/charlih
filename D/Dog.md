@@ -206,7 +206,7 @@ Mellow.
 
 {numref}`photo-Amy` Amy.
 
-```{figure} ../A/images/Amy.jpg
+```{figure} ../M/images/MellowAmy.jpg
 :name: photo-Amy
 :alt: Amy
 
