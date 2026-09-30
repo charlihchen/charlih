@@ -67,99 +67,75 @@ project:
     - title: C
       children:
         - file: C/C.md
-          hidden: true
     - title: D
       children:
         - file: D/D.md
-          hidden: true
     - title: E
       children:
         - file: E/E.md
-          hidden: true          
     - title: F
       children:
         - file: F/F.md
-          hidden: true
     - title: G
       children:
         - file: G/G.md
-          hidden: true
     - title: H
       children:
         - file: H/H.md
-          hidden: true
     - title: I
       children:
         - file: I/I.md
-          hidden: true
     - title: J
       children:
         - file: J/J.md
-          hidden: true
     - title: K
       children:
         - file: K/K.md
-          hidden: true
     - title: L
       children:
         - file: L/L.md
-          hidden: true
     - title: M
       children:
         - file: M/M.md
-          hidden: true
     - title: N
       children:
         - file: N/N.md
-          hidden: true
     - title: O
       children:
         - file: O/O.md
-          hidden: true
     - title: P
       children:
         - file: P/P.md
-          hidden: true
     - title: Q
       children:
         - file: Q/Q.md
-          hidden: true
     - title: R
       children:
         - file: R/R.md
-          hidden: true
     - title: S
       children:
         - file: S/S.md
-          hidden: true
     - title: T
       children:
         - file: T/T.md
-          hidden: true
     - title: U
       children:
         - file: U/U.md
-          hidden: true
     - title: V
       children:
         - file: V/V.md
-          hidden: true
     - title: W
       children:
         - file: W/W.md
-          hidden: true
     - title: X
       children:
         - file: X/X.md
-          hidden: true
     - title: Y
       children:
         - file: Y/Y.md
-          hidden: true
     - title: Z
       children:
         - file: Z/Z.md
-          hidden: true
 site:
   nav:
     - title: Internal blog page
