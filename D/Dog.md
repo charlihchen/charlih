@@ -177,7 +177,7 @@ He was a diligent survivor against aging.
 
 {numref}`photo-Mellow` Mellow.
 
-```{figure} ../L/images/Mellow.jpg
+```{figure} ../M/images/MandyandDogs2.jpg
 :name: photo-Mellow
 :alt: Mellow
 
