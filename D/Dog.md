@@ -20,8 +20,14 @@ exports:
 
 # My dogs
 
-../img/dog/Dogs.png
+{numref}`photo-Dogs` Dogs.
 
+```{figure} ../img/dog/Dogs.png
+:name: photo-Dogs
+:alt: Dogs
+
+Dogs.
+```
 ---
 
 ## Coby
