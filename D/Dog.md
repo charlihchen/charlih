@@ -11,7 +11,7 @@ kernelspec:
 title: Dog
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Charlih Chen
 exports:
   - format: typst
     template: lapreprint-typst
@@ -24,7 +24,7 @@ exports:
 
 {numref}`photo-Coby` Coby.
 
-```{figure} ../images/ThinkingCoby.jpg
+```{figure} ../C/images/ThinkingCoby.jpg
 :name: photo-Coby
 :alt: Coby
 
@@ -55,7 +55,7 @@ Coby had a strong mind even though he was in pain.
 
 {numref}`photo-Tola` Tola.
 
-```{figure} ../../img/dog/Tola.jpg
+```{figure} ../T/images/Tola.jpg
 :name: photo-Tola
 :alt: Tola
 
@@ -85,7 +85,7 @@ Tola was very calm even though he was in pain.
 
 {numref}`photo-Mi-T` Mi-T.
 
-```{figure} ../../img/dog/IMG_3187-scaled.jpg
+```{figure} ../M/images/IMG_3187-scaled.jpg
 :name: photo-Mi-T
 :alt: Mi-T
 
@@ -117,7 +117,7 @@ She was a diligent survivor against aging.
 
 {numref}`photo-Didi` Didi.
 
-```{figure} ../../img/dog/DiDi2025.jpg
+```{figure} ../D/images/DiDi2025.jpg
 :name: photo-Didi
 :alt: Didi
 
@@ -155,7 +155,7 @@ He was a diligent survivor against aging.
 
 {numref}`photo-小白` 小白.
 
-```{figure} ../../L/images/小白.jpg
+```{figure} ../L/images/小白.jpg
 :name: photo-小白
 :alt: 小白
 
@@ -166,7 +166,7 @@ He was a diligent survivor against aging.
 
 {numref}`photo-小熊` 小熊.
 
-```{figure} ../../L/images/小熊_Mi-T.jpg
+```{figure} ../L/images/小熊_Mi-T.jpg
 :name: photo-小熊
 :alt: 小熊
 
@@ -177,7 +177,7 @@ He was a diligent survivor against aging.
 
 {numref}`photo-大虎` 大虎.
 
-```{figure} ../../D/images/大虎.jpg
+```{figure} ../D/images/大虎.jpg
 :name: photo-大虎
 :alt: 大虎
 
@@ -188,7 +188,7 @@ He was a diligent survivor against aging.
 
 {numref}`photo-Hello` Hello.
 
-```{figure} ../../H/images/Hello.jpg
+```{figure} ../H/images/Hello.jpg
 :name: photo-Hello
 :alt: Hello
 
@@ -199,7 +199,7 @@ Hello.
 
 {numref}`photo-Tora` Tora.
 
-```{figure} ../../T/images/Tola_Hello_Mi-T.jpg
+```{figure} ../T/images/Tola_Hello_Mi-T.jpg
 :name: photo-Tora
 :alt: Tora
 
@@ -210,7 +210,7 @@ Tora.
 
 {numref}`photo-Mi-T` Mi-T.
 
-```{figure} ../../T/images/Tola_Hello_Mi-T.jpg
+```{figure} ../T/images/Tola_Hello_Mi-T.jpg
 :name: photo-Mi-T
 :alt: Mi-T
 
