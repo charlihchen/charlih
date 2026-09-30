@@ -145,5 +145,5 @@ root\Z
 [![slack](https://readmecodegen.vercel.app/api/social-icon?name=slack)]()
 [![medium](https://readmecodegen.vercel.app/api/social-icon?name=medium)]()
 [![tumblr](https://readmecodegen.vercel.app/api/social-icon?name=tumblr)]()
-[![flickr](https://readmecodegen.vercel.app/api/social-icon?name=flickr)]()
+[![flickr](https://readmecodegen.vercel.app/api/social-icon?name=flickr)](https://www.flickr.com/photos/29588146@N08)
 [![blogger](https://readmecodegen.vercel.app/api/social-icon?name=blogger)](https://charlih.blogspot.com/)
