@@ -20,4 +20,4 @@ exports:
 
 # G
 
-## GGG
+## [Game](Game.md)
