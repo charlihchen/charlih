@@ -260,13 +260,13 @@ Tora.
 
 ---
 
-## Mi-T
+## 麵麶 (mī-thi)
 
-{numref}`photo-Mi-T` Mi-T.
+{numref}`photo-麵麶` 麵麶.
 
 ```{figure} ../T/images/Tola_Hello_Mi-T.jpg
-:name: photo-Mi-T
-:alt: Mi-T
+:name: photo-麵麶
+:alt: 麵麶
 
-Mi-T.
+麵麶.
 ```
