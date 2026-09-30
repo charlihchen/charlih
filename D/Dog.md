@@ -22,6 +22,8 @@ exports:
 
 ../img/dog/Dogs.png
 
+---
+
 ## Coby
 
 {numref}`photo-Coby` Coby.
@@ -53,6 +55,8 @@ Coby had a strong mind even though he was in pain.
 
  [Video for Coby](http://youtu.be/b8-GGPeYV8U?list=UUpGvtruDR3AmTqgvIF6dXyg)
 
+---
+
 ## Tola
 
 {numref}`photo-Tola` Tola.
@@ -82,6 +86,8 @@ Tola was very calm even though he was in pain.
  [Photo for Tola](https://www.flickr.com/photos/29588146@N08/albums/72157628087675225)
 
  [Video for Tola](https://youtu.be/eKdPCGNSBsw)
+
+---
 
 ## Mi-T
 
@@ -114,6 +120,8 @@ She was a diligent survivor against aging.
  [Photo for Mi-T](https://www.flickr.com/photos/29588146@N08/albums/72157607039451551)
 
  [Video for Mi-T](https://youtu.be/r5u9Y1HH0Gg)
+
+---
 
 ## Didi
 
@@ -153,6 +161,8 @@ He was a diligent survivor against aging.
 
 [Video for Mi-T, Tola, and Didi](https://youtu.be/ijgLXh9cJOk)
 
+---
+
 ## 小白
 
 {numref}`photo-小白` 小白.
@@ -163,6 +173,8 @@ He was a diligent survivor against aging.
 
 小白.
 ```
+
+---
 
 ## 小熊
 
@@ -175,6 +187,8 @@ He was a diligent survivor against aging.
 小熊.
 ```
 
+---
+
 ## Mellow
 
 {numref}`photo-Mellow` Mellow.
@@ -185,6 +199,9 @@ He was a diligent survivor against aging.
 
 Mellow.
 ```
+
+---
+
 ## Amy
 
 {numref}`photo-Amy` Amy.
@@ -195,6 +212,8 @@ Mellow.
 
 Amy.
 ```
+
+---
 
 ## 大虎
 
@@ -207,6 +226,8 @@ Amy.
 大虎.
 ```
 
+---
+
 ## Hello
 
 {numref}`photo-Hello` Hello.
@@ -218,6 +239,8 @@ Amy.
 Hello.
 ```
 
+---
+
 ## Tora
 
 {numref}`photo-Tora` Tora.
@@ -228,6 +251,8 @@ Hello.
 
 Tora.
 ```
+
+---
 
 ## Mi-T
 
