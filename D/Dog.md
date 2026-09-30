@@ -260,7 +260,7 @@ Tora.
 
 ---
 
-## 麵麶 (mī-thi)
+## 麵麶 (mī-thi) AKA 麵筋的台語
 
 {numref}`photo-麵麶` 麵麶.
 
