@@ -61,24 +61,32 @@ project:
     - title: A
       children:
         - file: A/A.md
+        - file: A/About.md
+        - file: A/AI.md
     - title: B
       children:
         - file: B/B.md
+        - file: B/Blog.md
     - title: C
       children:
         - file: C/C.md
     - title: D
       children:
         - file: D/D.md
+        - file: D/DIY.md
+        - file: D/Dog.md
     - title: E
       children:
         - file: E/E.md
+        - file: E/EV.md
+        - file: E/Event.md
     - title: F
       children:
         - file: F/F.md
     - title: G
       children:
         - file: G/G.md
+        - file: G/Game.md
     - title: H
       children:
         - file: H/H.md
@@ -97,15 +105,18 @@ project:
     - title: M
       children:
         - file: M/M.md
+        - file: M/Menu.md
     - title: N
       children:
         - file: N/N.md
+        - file: N/News.md
     - title: O
       children:
         - file: O/O.md
     - title: P
       children:
         - file: P/P.md
+        - file: P/Project.md
     - title: Q
       children:
         - file: Q/Q.md
@@ -115,6 +126,9 @@ project:
     - title: S
       children:
         - file: S/S.md
+        - file: S/Search.md
+        - file: S/Shop.md
+        - file: S/Social.md
     - title: T
       children:
         - file: T/T.md
