@@ -20,4 +20,8 @@ exports:
 
 # D
 
-## DDD
+## [DIY](D/DIY.md)
+
+## [Didi](D/Didi.md)
+
+## [Dog](D/Dog.md)
