@@ -36,13 +36,7 @@ root\Z
 
 ## (Yahoo! category style)(folder...should point to [A-Z])
 
-[News](/news) | [Blog](/blog) | [Event](/event) | [DIY](pages/ktv/ktv.md) | [EV](/EV) | [AI](/AI) | [Shop](/shop) | [Game](/game) | [Dog](pages/dog/dog.md){:target="_blank"} | [Project](/project) | [About](/about) | [Social](/social) | [Search](/search) | [Menu](/menu)
-
-Note: The {:target="_blank"} syntax is not supported in all Markdown environments. 
-
-For example, it does not work on GitHub (GitHub Flavored Markdown).
-
-Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
+[News](/news) | [Blog](/blog) | [Event](/event) | [DIY](K/KTV.md) | [EV](/EV) | [AI](/AI) | [Shop](/shop) | [Game](/game) | [Dog](D/Dog.md) | [Project](/project) | [About](/about) | [Social](/social) | [Search](/search) | [Menu](/menu)
 
 ## Sub-Bookmarks (.md file...)
 
