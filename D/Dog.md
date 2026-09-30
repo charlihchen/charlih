@@ -151,3 +151,13 @@ He was a diligent survivor against aging.
 
 [Video for Mi-T, Tola, and Didi](https://youtu.be/ijgLXh9cJOk)
 
+## 小白
+
+{numref}`photo-小白` 小白.
+
+```{figure} ../../L/images/小白.jpg
+:name: photo-Didi
+:alt: 小白
+
+小白.
+```
