@@ -20,6 +20,8 @@ exports:
 
 # My dogs
 
+../img/dog/Dogs.png
+
 ## Coby
 
 {numref}`photo-Coby` Coby.
