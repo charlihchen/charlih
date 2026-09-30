@@ -32,6 +32,8 @@ exports:
 
 ### Bilibili
 
+### LinkedIn
+
 ### Tiktok
 
 ### Telegram
