@@ -62,3 +62,12 @@ toc:
         - file: A/A.md
           hidden: true
 ```
+
+## Q4: New browser TAB on MD syntax
+## A4:
+
+Note: The {:target="_blank"} syntax is not supported in all Markdown environments. 
+
+For example, it does not work on GitHub (GitHub Flavored Markdown).
+
+Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
