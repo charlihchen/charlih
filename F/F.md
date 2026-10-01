@@ -20,4 +20,4 @@ exports:
 
 # F
 
-## FFF
+## [Favorite](Favorite.md)
