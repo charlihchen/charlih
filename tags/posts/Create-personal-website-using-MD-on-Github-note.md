@@ -1,18 +1,73 @@
 ---
-title: Create website on Github note
-description: Posts tagged with Create website on Github note.
+title: "Create personal website using MD on GitHub note"
+date: 2026-09-20
+authors:
+  - name: Charlih Chen
+    email: charlih_chen@hotmail.com
+    orcid: 0000-0001-5437-4073
+    url: https://charlih.com
+description: Create personal website using MD on GitHub note.
+thumbnail: https://charlih.com/thumbnail/thumbnail1.jpg
+tags:
+  - MyST Markdown
+  - GitHub Note
+  - GitHub Actions
+  - Personal website
+keywords:
+  - MyST Markdown
+  - GitHub Note
+  - GitHub Actions
+  - Personal website
 ---
 
-# Create website on Github note
+# Create personal website using MD on GitHub note
 
-Posts tagged with **Create website on Github note**.
+## Q1: The custom domain via CNAME is not working even updated the DNS on purchased provider?
 
-## Posts
+## A1: 
 
-::::{grid} 1 1 2 2
+If you configure a custom domain (via CNAME), remove AKA using # to mark the BASE_URL environment variable from deploy.yml 
 
-:::{card} Create personal website using MD on Github note: Personal website setup notes
-:link: /posts/myst-article-template
-:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
-September 20, 2026 - Create personal website using MD on Github note.
-:::
+charlihchen/charlih/CNAME : charlih.com
+
+charlihchen/charlih/.gitHub/workflows/deploy.yml
+
+```diff
+.....
+      - name: Build HTML Assets
+        # Remove BASE_URL if using a custom domain (CNAME)
+-       # env:
+-        # BASE_URL: /${{ github.event.repository.name }}
+        run: myst build --html
+.....
+```
+
+## Q2: Why there is no Banner, Primary Sidebar, Secondary Sidebar, Website Header, Website Footer section areas?
+## A2:
+
+Have to enable the personal website repository on GitHub from "**Settings**" >> "**Pages**" >> select "**GitHub Actions**" under "Build and deployment" section
+
+"**Re-run jobs**" from deploy shows in red color. To fix all error and "**Re-run job**" till no error email to you.
+
+
+## Q3: Why the new created md file display in plain text on browser?
+## A3:
+
+Have to set the md file path under "toc:" section on myst.yml and then re-run the deploy task for GitHub.
+
+```
+toc:
+    - title: A
+      children:
+        - file: A/A.md
+          hidden: true
+```
+
+## Q4: New browser TAB on MD syntax
+## A4:
+
+Note: The {:target="_blank"} syntax is not supported in all Markdown environments. 
+
+For example, it does not work on GitHub (GitHub Flavored Markdown).
+
+Solution: <html><a href="pages/dog/dog.md" target="_blank">Dog</a></html>
