@@ -128,6 +128,22 @@ root\Z
 
 Still try to figure out how the blog <=> tag(s) work on GitHub?
 
+```
+root\posts
+     |_reate-personal-website-using-MD-on-Github-note.md
+     |_myst-article-template.md
+     |_myst-cv-website.md
+     |_myst-website-template.md
+    .
+    .
+root\tags
+     |_\posts
+        |_Create-personal-website-using-MD-on-Github-note.md
+     |_github-pages.md
+     |_myst-markdown.md
+     |_tutorial.md
+```
+
 ## Social media
 
 [![github](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://github.com/charlihchen)
