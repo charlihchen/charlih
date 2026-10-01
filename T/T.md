@@ -20,6 +20,6 @@ exports:
 
 # T
 
-## [Tola](T/Tola.md)
+## [Tola](Tola.md)
 
-## [Tang Poems](T/Tand-Poems.md)
+## [Tang Poems](Tand-Poems.md)
