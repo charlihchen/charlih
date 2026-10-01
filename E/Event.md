@@ -8,7 +8,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Events
+title: Event
 abstract: ""
 authors:
   - name: Author Name
@@ -18,4 +18,4 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Events
+# Event
