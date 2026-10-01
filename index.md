@@ -36,7 +36,7 @@ root\Z
 
 ## (Yahoo! category style)(folder...should point to [A-Z])
 
-[News](N/news.md) | [Blog](/blog) | [Event](E/event.md) | [DIY](K/KTV.md) | [EV](E/EV.md) | [AI](A/AI.md) | [Shop](S/shop.md) | [Game](G/game.md) | [Dog](D/Dog.md) | [Project](P/project.md) | [About](A/about.md) | [Social](S/social.md) | [Search](S/search.md) | [Menu](M/menu.md)
+[News](N/news.md) | [Blog](/blog) | [Event](E/event.md) | [DIY](D/DIY.md) | [EV](E/EV.md) | [AI](A/AI.md) | [Shop](S/shop.md) | [Game](G/game.md) | [Dog](D/Dog.md) | [Project](P/project.md) | [About](A/about.md) | [Social](S/social.md) | [Search](S/search.md) | [Menu](M/menu.md)
 
 ## Sub-Bookmarks (.md file...)
 
