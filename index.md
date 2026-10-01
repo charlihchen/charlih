@@ -124,9 +124,9 @@ root\Z
 ::::
 
 ---
-## ?
+## ???
 
-Still try to figure out how the blog <=> tag(s) work on GitHub?
+**Still try to figure out how the blog work between posts <=> tags on GitHub?**
 
 ```
 root\posts
