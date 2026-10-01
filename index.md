@@ -137,11 +137,12 @@ root\posts
     .
     .
 root\tags
-     |_\posts
-        |_create-personal-website-using-MD-on-Github-note.md
+     |_\~~posts~~
+        |_~~create-personal-website-using-MD-on-Github-note.md~~
      |_github-pages.md
      |_myst-markdown.md
      |_tutorial.md
+     |_create-personal-website-using-MD-on-Github-note.md
 ```
 
 myst.yml:
