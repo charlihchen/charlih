@@ -91,6 +91,7 @@ project:
     - title: F
       children:
         - file: F/F.md
+        - file: F/Favorite.md
     - title: G
       children:
         - file: G/G.md
