@@ -23,3 +23,9 @@ exports:
 ## [About](About.md)
 
 ## [AI](AI.md)
+
+## [Academy](Academy.md)
+
+## [Address](Address.md)
+
+## [Age](Age.md)
