@@ -23,3 +23,5 @@ exports:
 ## [EV](EV.md)
 
 ## [Event](Event.md)
+
+## [Email](Email.md)
