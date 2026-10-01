@@ -144,6 +144,19 @@ root\tags
      |_tutorial.md
 ```
 
+myst.yml:
+
+```
+    - file: blog.md
+      children:
+        - file: tags/create-website-on-GitHub-note.md
+        - file: tags/myst-markdown.md
+        - file: tags/tutorial.md
+        - file: tags/github-pages.md
+    - pattern: posts/*.md
+      hidden: true
+```
+
 ## Social media
 
 [![github](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://github.com/charlihchen)
