@@ -21,3 +21,7 @@ exports:
 # B
 
 ## [Blog](Blog.md)
+
+## [Bioraphy](Bioraphy.md)
+
+## [Birthday](Birthday.md)
