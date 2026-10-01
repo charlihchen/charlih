@@ -63,23 +63,31 @@ project:
         - file: A/A.md
         - file: A/About.md
         - file: A/AI.md
+        - file: A/Address.md
+        - file: A/Age.md
     - title: B
       children:
         - file: B/B.md
         - file: B/Blog.md
+        - file: B/Birthday.md
     - title: C
       children:
         - file: C/C.md
+        - file: C/Car.md
+        - file: C/Coby.md
+        - file: C/Chinese-zodiac.md
     - title: D
       children:
         - file: D/D.md
         - file: D/DIY.md
         - file: D/Dog.md
+        - file: D/Didi.md
     - title: E
       children:
         - file: E/E.md
         - file: E/EV.md
         - file: E/Event.md
+        - file: E/Email.md
     - title: F
       children:
         - file: F/F.md
@@ -96,6 +104,7 @@ project:
     - title: J
       children:
         - file: J/J.md
+        - file: J/Job.md
     - title: K
       children:
         - file: K/K.md
@@ -106,10 +115,12 @@ project:
       children:
         - file: M/M.md
         - file: M/Menu.md
+        - file: M/Mi-T.md
     - title: N
       children:
         - file: N/N.md
         - file: N/News.md
+        - file: N/Name.md
     - title: O
       children:
         - file: O/O.md
@@ -117,12 +128,15 @@ project:
       children:
         - file: P/P.md
         - file: P/Project.md
+        - file: P/Phone.md
     - title: Q
       children:
         - file: Q/Q.md
+        - file: Q/Q&A.md
     - title: R
       children:
         - file: R/R.md
+        - file: R/Resume.md
     - title: S
       children:
         - file: S/S.md
@@ -132,12 +146,14 @@ project:
     - title: T
       children:
         - file: T/T.md
+        - file: T/Tola.md
     - title: U
       children:
         - file: U/U.md
     - title: V
       children:
         - file: V/V.md
+        - file: V/Vehicle.md
     - title: W
       children:
         - file: W/W.md
@@ -150,6 +166,7 @@ project:
     - title: Z
       children:
         - file: Z/Z.md
+        - file: Z/Zodiac.md
 site:
   nav:
     - title: Internal blog page
