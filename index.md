@@ -130,7 +130,7 @@ root\Z
 
 ```
 root\posts
-     |_reate-personal-website-using-MD-on-Github-note.md
+     |_create-personal-website-using-MD-on-Github-note.md
      |_myst-article-template.md
      |_myst-cv-website.md
      |_myst-website-template.md
@@ -138,7 +138,7 @@ root\posts
     .
 root\tags
      |_\posts
-        |_Create-personal-website-using-MD-on-Github-note.md
+        |_create-personal-website-using-MD-on-Github-note.md
      |_github-pages.md
      |_myst-markdown.md
      |_tutorial.md
