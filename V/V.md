@@ -20,4 +20,4 @@ exports:
 
 # V
 
-## [Vehikcle](Vehicle.md)
+## [Vehicle](Vehicle.md)
