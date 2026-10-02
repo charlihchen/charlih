@@ -20,5 +20,5 @@ exports:
 
 # QR code
 
-![QR code](images\charlih_com_code.png)
+![QR code](images/charlih_com_code.png)
 
