@@ -20,9 +20,17 @@ exports:
 
 # Education
 
+## Indiana University Indianapolis
 
-Oct 1997 - Jan 1998 · 4 mos
+BS, Computer Technology
 
-- Testing wireless product and revising its installing procedure document
+1993 – 1997
 
- Software Installation, Wireless and +1 skill
+Activities and societies: President of Chinese Culture Club @ IUPUI during 1996
+Campus Computer Lab Consultant
+
+## Fushin Institute of Technology
+
+BS, Electrical Engineering (電機科)
+
+1985 – 1989
