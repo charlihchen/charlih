@@ -92,6 +92,8 @@ project:
         - file: E/EV.md
         - file: E/Event.md
         - file: E/Email.md
+        - file: E/Experience.md
+        - file: E/Education.md
     - title: F
       children:
         - file: F/F.md
