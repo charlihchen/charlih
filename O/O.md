@@ -20,4 +20,4 @@ exports:
 
 # O
 
-## [Others](O/Others.md)
+## [Others](Others.md)
