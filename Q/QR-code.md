@@ -22,3 +22,4 @@ exports:
 
 ![QR code](images/charlih_com_code.png)
 
+![QR code](images/charlih_com.png)
