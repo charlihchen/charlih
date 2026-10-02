@@ -25,3 +25,7 @@ exports:
 ## [Chinese-zodiac](Chinese-zodiac.md)
 
 ## [Coby](Coby.md)
+
+## [Category](Category.md)
+
+## [Charlih](Charlih.md)
