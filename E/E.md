@@ -25,3 +25,7 @@ exports:
 ## [Event](Event.md)
 
 ## [Email](Email.md)
+
+## [Experience](Experience.md)
+
+## [Education](Education.md)
