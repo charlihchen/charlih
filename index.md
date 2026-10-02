@@ -97,7 +97,7 @@ root\Z
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: /pages/A2Z.md
+:link: /A/A2Z.md
 ![A2Z](pages/images/A2Z.jpg)
 +++
 **Standardized personal website indexing as [A-Z]**
