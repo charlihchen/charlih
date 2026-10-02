@@ -24,7 +24,7 @@ exports:
 
 Q: Should the name be **Charlie** instead of **Charlih**?
 
-A: 
+A: 力 in English is "Li"; therefore, I named myself English name as Char**LI**h AKA. CHARacter **LI**H.
 
 ## Photo
 
