@@ -104,7 +104,7 @@ root\Z
 :::
 
 :::{card}
-:link: /pages/category.md
+:link: /C/Category.md
 ![Category](pages/images/category.jpg)
 +++
 **Category (Yahoo! style)**
