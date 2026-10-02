@@ -177,6 +177,7 @@ project:
       children:
         - file: Z/Z.md
         - file: Z/Zodiac.md
+        - file: Z/Zhuyin.md
 site:
   nav:
     - title: Internal blog page
