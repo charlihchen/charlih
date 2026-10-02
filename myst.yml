@@ -65,6 +65,7 @@ project:
         - file: A/AI.md
         - file: A/Address.md
         - file: A/Age.md
+        - file: A/Academy.md
     - title: B
       children:
         - file: B/B.md
