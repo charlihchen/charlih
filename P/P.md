@@ -23,3 +23,6 @@ exports:
 ## [Project](Project.md)
 
 ## [Phone](Phone.md)
+
+## [QR code](QR-code.md)
+
