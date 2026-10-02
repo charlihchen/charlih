@@ -28,4 +28,6 @@ A:
 
 ## Photo
 
-![Charlih](images\H2O99.jpg)
+![Charlih](images/H2O99.jpg)
+
+![Li-Hung](images/lihung.jpg)
