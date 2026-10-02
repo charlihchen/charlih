@@ -67,6 +67,7 @@ project:
         - file: A/Age.md
         - file: A/Academy.md
         - file: A/A2Z.md
+        - file: A/Activity.md
     - title: B
       children:
         - file: B/B.md
