@@ -78,6 +78,7 @@ project:
         - file: C/Car.md
         - file: C/Coby.md
         - file: C/Chinese-zodiac.md
+        - file: C/Category.md
     - title: D
       children:
         - file: D/D.md
