@@ -136,6 +136,7 @@ project:
       children:
         - file: Q/Q.md
         - file: Q/Q&A.md
+        - file: Q/QR-code.md.md
     - title: R
       children:
         - file: R/R.md
@@ -151,6 +152,7 @@ project:
         - file: T/T.md
         - file: T/Tola.md
         - file: T/Tang-Poems.md
+        - file: T/Tennis.md
     - title: U
       children:
         - file: U/U.md
