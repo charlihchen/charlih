@@ -20,4 +20,4 @@ exports:
 
 # Chinese-zodiac
 
-![Rooster](images\Rooster.jpg)
+![Rooster](images/Rooster.jpg)
