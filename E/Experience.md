@@ -88,3 +88,9 @@ Jun 1997 - Aug 1998 · 1 yr 3 mos
 ## Z-Com, Inc.
 
 Testing Engineer
+
+Oct 1997 - Jan 1998 · 4 mos
+
+- Testing wireless product and revising its installing procedure document
+
+ Software Installation, Wireless and +1 skill
