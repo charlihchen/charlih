@@ -111,14 +111,14 @@ root\Z
 :::
 
 :::{card}
-:link: /pages/others.md
+:link: /O/Others.md
 ![others](pages/images/others.jpg)
 +++
 **Others**
 :::
 
 :::{card}
-:link: /pages/project.md
+:link: /P/Project.md
 ![project](pages/images/project.jpg)
 +++
 **Project**
