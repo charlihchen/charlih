@@ -19,3 +19,5 @@ exports:
 ---
 
 # Chinese-zodiac
+
+![Rooster](images\Rooster.jpg)
