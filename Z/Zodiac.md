@@ -22,4 +22,6 @@ exports:
 
 ## Aries
 
-[<img src="https://static.vecteezy.com/system/resources/previews/025/860/233/non_2x/aries-zodiac-cartoon-ai-generate-png.png">]
+![Aries](image/Aries.jpg)
+
+<!-- [<img src="https://static.vecteezy.com/system/resources/previews/025/860/233/non_2x/aries-zodiac-cartoon-ai-generate-png.png">] -->
