@@ -26,6 +26,8 @@ exports:
 
 ## [Email](Email.md)
 
+## [Essay](Essay.md)
+
 ## [Experience](Experience.md)
 
 ## [Education](Education.md)
