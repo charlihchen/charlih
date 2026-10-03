@@ -20,6 +20,6 @@ exports:
 
 # Essay
 
-## Chinese language
+## [Chinese language](/C/Chinese_language.htm)
 
 
