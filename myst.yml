@@ -95,6 +95,7 @@ project:
         - file: E/Email.md
         - file: E/Experience.md
         - file: E/Education.md
+        - file: E/Essay.md
     - title: F
       children:
         - file: F/F.md
