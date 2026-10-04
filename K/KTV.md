@@ -18,6 +18,8 @@ exports:
     output: _build/exports/typst/
 ---
 
+![DIY KTV](images/CharlihChenDIYKTVlogo.png)
+
 # KTV
 
 DIY KTV created by Charlih Chen so far :)
