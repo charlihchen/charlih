@@ -22,7 +22,7 @@ exports:
 
 ## Q: OCR is image recognition, how about Video recognition called?
 
-[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) stands for Optical Character Recognition
+[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) stands for **O**ptical **C**haracter **R**ecognition
 
 ## A:
 
