@@ -24,4 +24,4 @@ exports:
 
 ## Chinese language
 
-### [Zhuyin](https://indexbox.com/chinese/chinese/) AKA. BoPoMoFo
+### [Zhuyin](https://indexbox.com/chinese/chinese/) AKA. BoPoMoFo aka. ㄅㄆㄇㄈ
