@@ -26,7 +26,9 @@ KFF stands for Kid Fun Festaval.
 
 ### 2026
 
-
+| No | YouTube Cover | Video | Uploaded Date | Viewed |
+|:---|:---|:---|:---|:---:|
+| 1 | | [2026 KFF 遊園區主門口](https://youtu.be/eBsKV57kliI) | Aug 24, 2026 | 3 |
 
 ### 2025
 
