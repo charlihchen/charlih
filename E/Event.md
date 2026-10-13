@@ -42,8 +42,18 @@ KFF stands for Kid Fun Festaval.
 
 ### 2025
 
+Events cancelled due to the COVID-19 pandemic
+
 ### 2024
+
+Events cancelled due to the COVID-19 pandemic
 
 ### 2023
 
+Events cancelled due to the COVID-19 pandemic
+
 ### 2022
+
+Events cancelled due to the COVID-19 pandemic
+
+
