@@ -75,3 +75,15 @@ Events cancelled due to the COVID-19 pandemic
 | No | YouTube Cover | Video | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|
 | 1 | | [Kids'N Fun Festival 2018 at Cupertino, CA USA rehearse](https://youtu.be/2AX7R6XWYfE?si=e_0yIZN8_qz7U91G) | Aug 11, 2018 | 35 |
+
+### 2017
+
+| No | YouTube Cover | Video | Uploaded Date | Viewed |
+|:---|:---|:---|:---|:---:|
+| 1 | | [2017 Cupertino 童玩節](https://youtu.be/hoggtsl2GTg?si=EyEpvXzPeovb1y4t) | Aug 14, 2017 | 61 |
+
+### 2016
+
+| No | YouTube Cover | Video | Uploaded Date | Viewed |
+|:---|:---|:---|:---|:---:|
+| 1 | | [2016 Cupertino 國際童玩節 宜蘭當代樂坊 四季紅](https://youtu.be/5W8qUaEAe6U?si=tc4G6f2a3fED86GM) | Aug 14, 2016 | 31 |
