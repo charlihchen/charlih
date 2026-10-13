@@ -122,4 +122,4 @@ Events cancelled due to the COVID-19 pandemic
 | 17 | | [2017金山灣區華運會卡拉OK#3:熱線你和我-張惠妹](https://youtu.be/zdrHP3yWlRw?si=-z9ssx2U3zTKWEa0) | Jul 9, 2017 | 26 |
 | 18 | | [2017金山灣區華運會卡拉OK#1:你最珍貴-張學友&高慧君](https://youtu.be/cVz9Nqpk9n4?si=01cQBQEX0C9Q1KNx) | Jul 9, 2017 | 53 |
 | 19 | | [2017華運會@Cupertino High](https://youtu.be/NXrj5hqVJoQ?si=krkdvHuHdkeXyB8f) | Jul 10, 2017 | 31 |
-| 20 | | [017金山灣區華運會卡拉OK 張惠妹 You make me free](https://youtu.be/pS00F8VBrAQ?si=QQgEha_Yyv8rR5Su) | Sep 11, 2017 | 46 |
+| 20 | | [2017金山灣區華運會卡拉OK 張惠妹 You make me free](https://youtu.be/pS00F8VBrAQ?si=QQgEha_Yyv8rR5Su) | Sep 11, 2017 | 46 |
