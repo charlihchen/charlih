@@ -69,3 +69,9 @@ Events cancelled due to the COVID-19 pandemic
 | No | YouTube Cover | Video | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|
 | 1 | | [2019KidsNFunFestival](https://youtu.be/oQwqQTVBKVM?si=LPAJZZyEc2wEZcmL) | Aug 10, 2019 | 102 |
+
+### 2018
+
+| No | YouTube Cover | Video | Uploaded Date | Viewed |
+|:---|:---|:---|:---|:---:|
+| 1 | | [Kids'N Fun Festival 2018 at Cupertino, CA USA rehearse](https://youtu.be/2AX7R6XWYfE?si=e_0yIZN8_qz7U91G) | Aug 11, 2018 | 35 |
