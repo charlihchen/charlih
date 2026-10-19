@@ -1,0 +1,26 @@
+name: Update YouTube view counts
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # daily at 15:00 UTC (~7-8am Pacific)
+  workflow_dispatch:  # also allow a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update view counts in K/KTV.md
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 scripts/update_views.py
+      - name: Commit and push if changed
+        run: |
+          git config user.name "views-bot"
+          git config user.email "views-bot@users.noreply.github.com"
+          git add K/KTV.md
+          git diff --cached --quiet || git commit -m "Update YouTube view counts"
+          git push
