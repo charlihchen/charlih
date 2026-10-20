@@ -11,7 +11,7 @@ kernelspec:
 title: T
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Charlih
 exports:
   - format: typst
     template: lapreprint-typst
@@ -24,5 +24,4 @@ exports:
 
 ## [Tang Poems](Tand-Poems.md)
 
-
-## [Tennis](Tennis.md)
+## [Tennis](https://indexbox.com/tennis)
