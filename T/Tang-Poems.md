@@ -38,4 +38,4 @@ exports:
 
 尋找 押韻 字; 可以翻台灣字典的背頁的注音表。 或我的[網路注音](https://indexbox.com/chinese/chinese/) Database。
 
-
+一些網路AI生成的歌曲；聽起來就怪怪的沒押韻；也沒竟量遵循韻調/押韻的規則，所以聽起來就不順。
