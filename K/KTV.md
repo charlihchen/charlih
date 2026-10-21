@@ -28,7 +28,7 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
-| 1 | | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 79 |
+| 1 | | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 80 |
 | 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 20 |
 
 ## 2025
@@ -36,7 +36,7 @@ DIY KTV created by Charlih Chen so far :)
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | | 林憶蓮 + 林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 160 |
-| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 386 |
+| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 389 |
 | 3 | | 黃于恩 溫妮 Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 51 |
 | 4 | | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
 | 5 | | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
