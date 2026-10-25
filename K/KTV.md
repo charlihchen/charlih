@@ -29,21 +29,21 @@ DIY KTV created by Charlih Chen so far :)
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 83 |
-| 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 21 |
+| 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 25 |
 
 ## 2025
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | | 林憶蓮 + 林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 160 |
-| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 472 |
+| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 483 |
 | 3 | | 黃于恩 溫妮 Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 53 |
 | 4 | | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
 | 5 | | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
 | 6 | | Glee Cast | [Arthur's Theme(Best That You Can Do)](https://youtu.be/yiqKcSb8L70) | Jun 21, 2025 | 22 |
 | 7 | | Alizée | [La Isla Bonita](https://youtu.be/G6p3-4bbLco) | Jun 14, 2026 | 237 |
 | 8 | | The Police | [Every Breath You Take](https://youtu.be/q79MY0dmCVM) | Jun 5, 2026 | 111 |
-| 9 | | 陳淑樺 | [Sukiyaki (It's all because of you)](https://youtu.be/JlTI4eNvue4) | May 6, 2026 | 270 |
+| 9 | | 陳淑樺 | [Sukiyaki (It's all because of you)](https://youtu.be/JlTI4eNvue4) | May 6, 2026 | 272 |
 | 10 | | 台大合唱團 | [如果明天就是下一生](https://youtu.be/EREDYcJrAuQ) | Mar 10, 2026 | 226 |
 
 ## 2024
