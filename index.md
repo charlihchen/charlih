@@ -1,8 +1,9 @@
 ---
 title: Charlih Chen
 subtitle: Personal website
-[logo]: logo.png "Charlih Chen"
 ---
+
+![](logo.png "Charlih Chen logo")
 
 ## Introduction AKA. Preface
 
