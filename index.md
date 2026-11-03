@@ -1,6 +1,7 @@
 ---
-title: Charlih Chen<br />![image](logo.png)
+title: Charlih Chen
 subtitle: Personal website
+![logo](logo.png"Charlih Chen")
 ---
 
 ## Introduction AKA. Preface
