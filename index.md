@@ -1,5 +1,5 @@
 ---
-title: Charlih Chen
+title: Charlih Chen<br />![image](logo.png)
 subtitle: Personal website
 ---
 
