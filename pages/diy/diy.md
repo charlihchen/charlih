@@ -11,7 +11,7 @@ kernelspec:
 title: DIY
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Charlih Chen
 exports:
   - format: typst
     template: lapreprint-typst
@@ -20,7 +20,7 @@ exports:
 
 # DIY
 
-## [KTV](/ktv/ktv.md)
+## [KTV](../k/ktv)
 
 ## PC
 
