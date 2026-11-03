@@ -41,8 +41,8 @@ project:
         - file: pages/part02/first-example.md
     - title: DIY
       children:
-        - file: pages/diy.md
-        - file: K/ktv.md    
+        - file: pages/diy/diy.md
+        - file: K/KTV.md
     - title: Dog
       children:
         - file: D/Dog.md
@@ -146,7 +146,7 @@ project:
       children:
         - file: Q/Q.md
         - file: Q/Q&A.md
-        - file: Q/QR-code.md.md
+        - file: Q/QR-code.md
     - title: R
       children:
         - file: R/R.md
