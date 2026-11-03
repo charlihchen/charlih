@@ -42,10 +42,10 @@ project:
     - title: DIY
       children:
         - file: pages/diy.md
-        - file: pages/ktv/ktv.md    
+        - file: K/ktv.md    
     - title: Dog
       children:
-        - file: pages/dog/dog.md
+        - file: D/Dog.md
         - file: pages/dog/Coby.md
         - file: pages/dog/Tola.md
         - file: pages/dog/Mi-T.md
