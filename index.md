@@ -55,7 +55,7 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | E    |          |                |                      |
-| Essay  | [Chinese Language](C/Chinese_language.md)   |                |                      |
+| Essay  | [Chinese Language](/C/Chinese_language.html)   |                |                      |
 | [EV](E/EV.md)   | Tesla    | Customize Sound | └─ Boombox (Lock Sound) |
 | EV   | Tesla    | Show           | └─ Light Show        |
 
