@@ -61,6 +61,10 @@ jobs:
       - name: Copy static files
         run: |
           cp CNAME ./_build/html/ 2>/dev/null || true
+          # Images referenced by raw HTML pages (e.g. C/Chinese_language.html)
+          # are not copied by MyST, so copy them to the matching site path
+          mkdir -p ./_build/html/C
+          cp -r C/images ./_build/html/C/images 2>/dev/null || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
