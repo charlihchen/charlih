@@ -20,18 +20,14 @@ exports:
 
 # Project(s)
 
-My project(s) so far.
+My project(s) so far...
 
 ## Project #1
 
-Provide an overview of the topic here.
+[indexbox.com](https://indexbox.com)
 
 ## Project #2
 
 Explain the key concepts that readers need to understand.
-
-```{code-cell} ipython3
-print("Hello, World!")
-```
 
 ## Project #3
