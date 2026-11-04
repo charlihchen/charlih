@@ -32,13 +32,12 @@ project:
     - title: Preface
       children:
         - file: pages/preface.md
-    - title: Getting Started
+    - title: Projects
       children:
-        - file: pages/part01/getting-started.md
-        - file: pages/part01/installation.md
-    - title: Examples
+        - file: pages/part01/projects.md
+    - title: Archievements
       children:
-        - file: pages/part02/first-example.md
+        - file: pages/part01/achievements.md
     - title: DIY
       children:
         - file: pages/diy/diy.md
@@ -187,7 +186,10 @@ project:
         - file: Z/Zhuyin.md
     - title: Sandbox
       children:
-        - file: sandbox/sandbox.md    
+        - file: sandbox/sandbox.md
+        - file: pages/part01/getting-started.md
+        - file: pages/part01/installation.md
+        - file: pages/part02/first-example.md
 site:
   nav:
     - title: Internal blog page
