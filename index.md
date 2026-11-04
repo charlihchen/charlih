@@ -48,26 +48,27 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | D    |          |                |                      |
-| DIY  | KTV      |                |                      |
+| [DIY](D/DIY.md)  | [KTV](K/KTV.md)      |                |                      |
 | DIY  | PC       |                |                      |
 | DIY  | Index    |                |                      |
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | E    |          |                |                      |
-| EV   | Tesla    | Customize Sound | └─ Boombox (Lock Sound) |
+| Essay  | [Chinese Language](C/Chiense_language.md)      |                |                      |
+| [EV](E/EV.md)   | Tesla    | Customize Sound | └─ Boombox (Lock Sound) |
 | EV   | Tesla    | Show           | └─ Light Show        |
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | A |   |   |   |
-| AI   | OpenAI   |         |                      |
+| [AI](A/AI.md)   | OpenAI   |         |                      |
 | AI   | ChatGPT  |        |                      |
 
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | S |   |   |   |
-| Shop   | Costco   |         |                      |
+| [Shop](S/shop.md)   | Costco   |         |                      |
 | Shop   | Amazon  |        |                      |
 | Shop   | Temu   |         |                      |
 | Shop   | Shopee  |        |                      |
@@ -75,7 +76,7 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | G |   |   |   |
-| Game   | Pokemon GO   |         |                      |
+| [Game](G/game.md)   | Pokemon GO   |         |                      |
 | Game   | Microsoft Xbox  |        |                      |
 | Game   | Sony PlayStation   |         |                      |
 | Game   | Nintendo Switch  |        |                      |
@@ -83,7 +84,7 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | S |   |   |   |
-| Social   | Facebook   |   Muse     |                      |
+| [Social](S/social.md)   | Facebook   |   Muse     |                      |
 | Social   | YouTube  |        |                      |
 | Social   | Instagram   |   Threads      |                      |
 | Social   | Telegram  |        |                      |
@@ -91,7 +92,7 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | P |   |   |   |
-| Project   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
+| [Project](P/project.md)   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
 | Project   | Bopomo AKA Zhuyin  |        |                      |
 
 ## Featured Projects
