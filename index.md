@@ -92,7 +92,7 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | P |   |   |   |
-| [Project](../P/Project.md)   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
+| [Project](/P/Project.md)   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
 | Project   | [Bopomo AKA Zhuyin](https://indexbox.com/chinese/chinese/)  |        |                      |
 
 ## Featured Projects
