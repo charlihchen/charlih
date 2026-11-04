@@ -55,3 +55,9 @@ Argumentation
 Conclusion
 
 Essays and theses serve different academic purposes. Essays are shorter and focus on specific arguments, while theses are longer, more complex documents that synthesize multiple essays into a comprehensive analysis required for degree completion.
+
+## 12
+
+| :mouse: | :cow: | :tiger: | :rabbit: | :dragon: | :snake: | :horse: | :sheep: | :monkey: | :rooster: | :dog: | :pig: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
