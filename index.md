@@ -16,7 +16,7 @@ Welcome to my _**Personal Website**_. This website contains my personal info..
 
 ### Let your "personalize info" fall into chapter from A to Z instead of 1, 2, 3..... like a book as chapter 1, chapter 2 etc.
 
-| [A](A/A.md)] | [B](B/B.md)] | [C](C/C.md) | [D](D/D.md) | [E](E/E.md) | [F](F/F.md) | [G](G/G.md) | [H](H/H.md) | [I](I/I.md) | [J](J/J.md) | [K](K/K.md) | [L](L/L.md) | [M](M/M.md) | [N](N/N.md) | [O](O/O.md) | [P](P/P.md) | [Q](Q/Q.md) | [R](R/R.md) | [S](S/S.md) | [T](T/T.md) | [U](U/U.md) | [V](V/V.md) | [W](W/W.md) | [X](X/X.md) | [Y](Y/Y.md) | [Z](Z/Z.md) |
+| [A](A/A.md)] | [B](B/B.md)] | [C](C/C.md) | [D](D/D.md) | [E](E/E.md) | [F](F/F.md) | [G](G/G.md) | [H](H/H.md) | [I](I/I.md) | [J](J/J.md) | [K](K/K.md) | [L](L/L.md) | [M](M/M.md) | [N](N/N.md) | [O](O/O.md) | [P](../P/P.md) | [Q](Q/Q.md) | [R](R/R.md) | [S](S/S.md) | [T](T/T.md) | [U](U/U.md) | [V](V/V.md) | [W](W/W.md) | [X](X/X.md) | [Y](Y/Y.md) | [Z](Z/Z.md) |
 
 ## Workspace AKA using folder to be documented
 
@@ -92,7 +92,7 @@ root\Z
 | Root | Children | Grand Children | Grand Grand Children |
 | ---- | ---------| ---------------| ---------------------|
 | P |   |   |   |
-| [Project](P/project.md)   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
+| [Project](../P/project.md)   | Indexbox (Scale up library index box for indexing every websites as possible)   |         |                      |
 | Project   | [Bopomo AKA Zhuyin](https://indexbox.com/chinese/chinese/)  |        |                      |
 
 ## Featured Projects
