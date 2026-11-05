@@ -200,18 +200,20 @@ site:
       url: /blog
     - title: Project(s)
       url: /P/Project.md
-    - title: Achievement(s)
-      url: /A/Achievements.md
+    - title: Archivement(s)
+      url: /A/Archivevements.md
     - title: Contact
-       - title: Networking
-         url: /N/Networking.md   
-       - title: Social Media
-         url: /#social-media
-         #url: /S/Social.md
+      children:
+        - title: Networking
+          url: /N/Networking.md
+        - title: Social Media
+          url: /#social-media
+          #url: /S/Social.md
     - title: Other(s)
       url: /O/Others.md
+      children:
         - title: Protfolio
-          url: /P/Protfolio.md     
+          url: /P/Protfolio.md
   options:
     logo: logo.png
     logo_dark: logo.png
