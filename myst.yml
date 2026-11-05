@@ -218,7 +218,7 @@ site:
   template: book-theme
   parts:
     primary_sidebar_footer: ''
-    banner: Updates will be released soon!
+    #banner: Updates will be released soon!
     # footer: footer.md
     footer: Charlih Chen (c) 2026
     # style: ./css/footer.css
