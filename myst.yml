@@ -193,11 +193,11 @@ project:
 site:
   nav:
     - title: Home
-      url: /
+      url: /index.md
     - title: Blog
       url: /blog
     - title: Youtube
-      url: /Y/youtube.md
+      url: /Y/Youtube.md
     - title: Project(s)
       url: /P/Project.md
     - title: Archivement(s)
