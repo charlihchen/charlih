@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: "/Y/Youtube.md"
           comment_tag_name: "YOUTUBE"
           feed_list: "https://ww.youtube.com/feeds/videos.xml?channel_id=UCpGvtruDR3AmTqgvIF6dXyg"
           
