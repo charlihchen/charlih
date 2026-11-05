@@ -3,8 +3,8 @@ on:
   schedule:
     # Runs every hour
     #- cron: '0 * * * *'
-    # Runs every day
-    - cron: '0 0 * * *'
+    # Runs every day 3:20 AM
+    - cron: '20 3 * * *'
   workflow_dispatch:
 
 jobs:
