@@ -193,17 +193,22 @@ project:
 site:
   nav:
     - title: Home
-      url: /index.md
+      url: /
     - title: Blog
       url: /blog
-    - title: Youtube
-      url: /Y/Youtube.md
     - title: Project(s)
       url: /P/Project.md
     - title: Archivement(s)
       url: /A/archivements.md
-    - title: SocialMedia
-      url: /S/Social.md      
+    - title: Contact
+       - title: Networking
+         url: /N/Networking.md   
+       - title: Social Media
+         url: /S/Social.md
+    - title: Other(s)
+      url: /O/Others.md
+        - title: Protfolio
+          url: /P/Protfolio.md     
   options:
     logo: logo.png
     logo_dark: logo.png
