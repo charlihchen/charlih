@@ -28,6 +28,5 @@ My project(s) so far...
 
 ## Project #2
 
-Explain the key concepts that readers need to understand.
 
 ## Project #3
