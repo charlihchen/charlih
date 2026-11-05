@@ -132,6 +132,7 @@ project:
         - file: N/N.md
         - file: N/News.md
         - file: N/Name.md
+        - file: N/Networking.md
     - title: O
       children:
         - file: O/O.md
@@ -141,6 +142,7 @@ project:
         - file: P/P.md
         - file: P/Project.md
         - file: P/Phone.md
+        - file: P/Protfolio.md
     - title: Q
       children:
         - file: Q/Q.md
