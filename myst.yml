@@ -200,8 +200,8 @@ site:
       url: /blog
     - title: Project(s)
       url: /P/Project.md
-    - title: Archivement(s)
-      url: /A/Archivevements.md
+    - title: Achievement(s)
+      url: /A/Achievements.md
     - title: Contact
       children:
         - title: Networking
