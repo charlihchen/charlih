@@ -26,10 +26,31 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/charlih_chen#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/charlih_chen#gh-dark-mode-only)
 
-### Languages and Tools:
+### Top menu:
 
-<br />
-<br />
+```
+Home >
+
+Blog >
+
+Project(s) >
+
+Archivement(s) >     
+
+Contact >
+        |
+        ->Networking
+        |
+        ->Social Media
+        |
+        ->Forum
+        |
+        ->Platform
+
+Others >
+       |
+       ->Protfolio
+```
 
 ---
 
