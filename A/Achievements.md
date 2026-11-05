@@ -37,3 +37,4 @@ exports:
 - Phone:+1-317-274-4357
 - in-person: Find your [campus Support Center’s](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0023963) contact information
 - Email: ithelp@iu.edu
+- [University Library](https://library.indianapolis.iu.edu/)
