@@ -27,3 +27,13 @@ exports:
 ## 2008
 
 [Tennis Group/Teams web site](T/Tennis.md)
+
+## 1996
+
+President of [Chinese Culture Club(CCC)](https://www.facebook.com/groups/2204306774/) @ IUPUI during 1996
+
+IUPUI Campus Computer Lab Consultant
+-Chat: https://ithelplive.iu.edu/
+-Phone:+1-317-274-4357
+-in-person: Find your [campus Support Center’s](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0023963) contact information
+-Email: ithelp@iu.edu
