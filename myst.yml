@@ -204,7 +204,8 @@ site:
        - title: Networking
          url: /N/Networking.md   
        - title: Social Media
-         url: /S/Social.md
+         url: /#social-media
+         #url: /S/Social.md
     - title: Other(s)
       url: /O/Others.md
         - title: Protfolio
