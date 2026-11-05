@@ -1,7 +1,7 @@
 ---
 title: Blog
-subtitle: Thoughts on data science, open-source software, and teaching.
-description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+subtitle: Blogging anything.
+description: A blog about anything, powered by MyST Markdown.
 ---
 
 # Blog
@@ -12,6 +12,11 @@ description: A blog about data science, open-source software, and teaching, powe
 - [LinkedIn](https://www.linkedin.com/in/username)
 
 ---
+## External blog service
+
+### Google
+
+[charlih blogger](https://charlih.blogspot.com/)
 
 ## Posts
 
@@ -38,7 +43,6 @@ April 10, 2026 - A step-by-step tutorial on building a personal CV website with 
 :::
 
 ::::
-
 
 ### 2025
 
