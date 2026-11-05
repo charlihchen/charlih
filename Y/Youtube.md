@@ -20,8 +20,7 @@ exports:
 
 # Youtube
 
-## Latest Youtube videos
-
+## Latest YouTube Videos
 <!--- YOUTUBE : START --->
 <!---  YOUTUBE: END --->
 
