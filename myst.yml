@@ -192,8 +192,10 @@ project:
         - file: pages/part02/first-example.md
 site:
   nav:
-    - title: Charlih Chen personal home page
-      url: /blog
+    - title: Home
+      url: /
+    - title: Blog
+      url: /blog      
   options:
     logo: logo.png
     logo_dark: logo.png
