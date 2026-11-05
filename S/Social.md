@@ -18,34 +18,25 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Social
+# Social Media
 
-## Media
+## List
 
-### Facebook
+- Facebook
+- Instagram
+- Threads
+- YouTube
+- Bilibili
+- LinkedIn
+- Tiktok
+- Telegram
+- X (former Twitter)
+- Teams (former Skype)
+- Discord
+- Line
+- Zoom
+- FaceTime
 
-### Instagram
+## Icon
 
-### Threads
 
-### YouTube
-
-### Bilibili
-
-### LinkedIn
-
-### Tiktok
-
-### Telegram
-
-### X (former Twitter)
-
-### Teams (former Skype)
-
-### Discord
-
-### Line
-
-### Zoom
-
-### FaceTime
