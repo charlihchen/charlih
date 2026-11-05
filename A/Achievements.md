@@ -8,7 +8,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Archievement(s)
+title: Achievement(s)
 abstract: ""
 authors:
   - name: Charlih Chen
@@ -18,10 +18,10 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Archievement(s)
+# Achievement(s)
 
 ## Archievement#1
 
-## Archievement#2
+## Achievement#2
 
-## Archievement#3
+## Achievement#3
