@@ -9,9 +9,9 @@ kernelspec:
   language: python
   name: python3
 title: Blog
-abstract: ""
+abstract: "Google blogger"
 authors:
-  - name: Author Name
+  - name: Charlih Chen
 exports:
   - format: typst
     template: lapreprint-typst
@@ -19,3 +19,8 @@ exports:
 ---
 
 # Blog
+
+## Google blogger
+
+[charlih blogger](https://charlih.blogspot.com/)
+
