@@ -201,7 +201,9 @@ site:
     - title: Project(s)
       url: /P/Project.md
     - title: Archivement(s)
-      url: /A/archivements.md      
+      url: /A/archivements.md
+    - title: SocialMedia
+      url: /S/Socialmedia.md      
   options:
     logo: logo.png
     logo_dark: logo.png
