@@ -195,7 +195,13 @@ site:
     - title: Home
       url: /
     - title: Blog
-      url: /blog      
+      url: /blog
+    - title: Youtube
+      url: /Y/youtube.md
+    - title: Project(s)
+      url: /P/projects.md
+    - title: Archivement(s)
+      url: /A/archivements.md      
   options:
     logo: logo.png
     logo_dark: logo.png
