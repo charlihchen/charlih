@@ -24,10 +24,6 @@ My Achievement(s) so far.
 
 ## Achievement #1
 
-Provide an overview of the topic here.
-
 ## Achievement #2
-
-Explain the key concepts that readers need to understand.
 
 ## Achievement #3
