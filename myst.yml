@@ -67,6 +67,7 @@ project:
         - file: A/Academy.md
         - file: A/A2Z.md
         - file: A/Activity.md
+        - file: A/Achievements.md
     - title: B
       children:
         - file: B/B.md
@@ -195,25 +196,25 @@ project:
 site:
   nav:
     - title: Home
-      url: /
+      file: index.md
     - title: Blog
       url: /blog
     - title: Project(s)
-      url: /P/Project.md
+      url: /p/project
     - title: Achievement(s)
-      url: /A/Achievements.md
+      url: /a/achievements
     - title: Contact
       children:
         - title: Networking
-          url: /N/Networking.md
+          url: /n/networking
         - title: Social Media
-          url: /#social-media
-          #url: /S/Social.md
+          url: /s/social
     - title: Other(s)
-      url: /O/Others.md
       children:
+        - title: Others
+          url: /o/others
         - title: Protfolio
-          url: /P/Protfolio.md
+          url: /p/protfolio
   options:
     logo: logo.png
     logo_dark: logo.png
