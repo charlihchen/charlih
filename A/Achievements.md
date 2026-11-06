@@ -28,6 +28,10 @@ exports:
 
 [Tennis Group/Teams web site](T/Tennis.md) creator
 
+## 2000
+
+Microsoft Windows Insider Program participant since (https://www.microsoft.com/en-us/windowsinsider/)
+
 ## 1996
 
 ### President of [Chinese Culture Club(CCC)](https://www.facebook.com/groups/2204306774/) @ IUPUI during 1996
