@@ -30,7 +30,7 @@ exports:
 
 ## 2000
 
-Microsoft Windows Insider Program participant since (https://www.microsoft.com/en-us/windowsinsider/)
+Microsoft Windows Insider Program participant since for Twinhead.com (https://www.microsoft.com/en-us/windowsinsider/)
 
 ## 1996
 
