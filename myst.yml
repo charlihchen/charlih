@@ -196,7 +196,7 @@ project:
 site:
   nav:
     - title: Home
-      file: index.md
+      url: /index
     - title: Blog
       url: /blog
     - title: Project(s)
