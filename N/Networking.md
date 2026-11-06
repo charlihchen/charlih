@@ -22,6 +22,12 @@ exports:
 
 ## LinkedIn
 
+[![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://www.linkedin.com/in/charlih)
+
 ## Facebook
 
+[![facebook](https://readmecodegen.vercel.app/api/social-icon?name=facebook)](https://www.facebook.com/charlih.chen/)
+
 ## Email
+
+charlihchen@fortinet.com
