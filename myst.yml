@@ -196,7 +196,7 @@ project:
 site:
   nav:
     - title: Home
-      url: /index
+      url: https://charlih.com/
     - title: Blog
       url: /blog
     - title: Project(s)
