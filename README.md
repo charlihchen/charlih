@@ -29,18 +29,19 @@
 ### Top menu:
 
 ```
-Home >
+[Home](https://charlih.com/) >
 
-Blog >
+[Blog](/blog) >
 
-Project(s) >
+[Project(s)](/p/project) >
 
-Archivement(s) >     
+[Archivement(s)](/a/achievements) >     
 
 Contact >
         |
-        ->Networking
+        ->[Networking](/n/networking)
         |
+        ->[Social Media](/s/cocail)
         ->[Social Media](#social-media)
         |
         ->Forum
@@ -48,11 +49,11 @@ Contact >
         ->Platform
 
 Others >
-       ->Others
+       ->[Others](/o/others)
        |
-       ->Protfolio
+       ->[Protfolio](/p/profolio)
        |
-       ->Resume
+       ->[Resume](/r/resume)
 ```
 
 ---
