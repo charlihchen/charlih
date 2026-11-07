@@ -36,7 +36,7 @@ DIY KTV created by Charlih Chen so far :)
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | | 林憶蓮 + 林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 161 |
-| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 593 |
+| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 606 |
 | 3 | | 黃于恩 溫妮 Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 58 |
 | 4 | | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
 | 5 | | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
@@ -44,7 +44,7 @@ DIY KTV created by Charlih Chen so far :)
 | 7 | | Alizée | [La Isla Bonita](https://youtu.be/G6p3-4bbLco) | Jun 14, 2026 | 237 |
 | 8 | | The Police | [Every Breath You Take](https://youtu.be/q79MY0dmCVM) | Jun 5, 2026 | 159 |
 | 9 | | 陳淑樺 | [Sukiyaki (It's all because of you)](https://youtu.be/JlTI4eNvue4) | May 6, 2026 | 283 |
-| 10 | | 台大合唱團 | [如果明天就是下一生](https://youtu.be/EREDYcJrAuQ) | Mar 10, 2026 | 236 |
+| 10 | | 台大合唱團 | [如果明天就是下一生](https://youtu.be/EREDYcJrAuQ) | Mar 10, 2026 | 237 |
 
 ## 2024
 
@@ -69,5 +69,5 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---:|:---|:---|:---:|:---:|---:|
-| 1 | | 伍思凱 | [這邊那邊4Mi-T](https://youtu.be/r5u9Y1HH0Gg) | Jul 12, 2013 | 422 |
+| 1 | | 伍思凱 | [這邊那邊4Mi-T](https://youtu.be/r5u9Y1HH0Gg) | Jul 12, 2013 | 423 |
 
