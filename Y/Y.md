@@ -20,6 +20,6 @@ exports:
 
 # Y
 
-## [YouTube](y/youtube.md)
+## [YouTube](YouTube.md)
 
 
