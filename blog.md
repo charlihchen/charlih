@@ -9,7 +9,7 @@ description: A blog about anything, powered by MyST Markdown.
 ## Subscribe
 
 - [RSS feed](/rss.xml) (or [Atom](/atom.xml))
-- [LinkedIn](https://www.linkedin.com/in/charlihchen)
+- [LinkedIn](https://www.linkedin.com/in/charlih)
 
 ---
 ## External blog service
