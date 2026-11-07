@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path: "/B/Blog.md"
+          readme_path: "B/Blog.md"
           #comment_tag_name: "BLOG"
           #Its deafult value is "BLOG-POST-LIST"
           feed_list: "https://charlih.blogspot.com/feeds/posts/default"
