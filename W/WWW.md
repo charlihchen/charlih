@@ -22,5 +22,5 @@ exports:
 
 Web site created by Charlih Chen so far. ^_^
 
-## [Tennis org](https://indexbox/tennis)
+## [Tennis org](https://indexbox.com/tennis)
 
