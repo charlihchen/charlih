@@ -227,7 +227,7 @@ site:
     # hide_toc: true
   actions:
     - title: RSS
-      url: https://opengeos.org/myst-website-template/rss.xml
+      url: https://charlih.com/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
