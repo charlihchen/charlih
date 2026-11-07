@@ -48,8 +48,11 @@ Contact >
         ->Platform
 
 Others >
+       ->Others
        |
        ->Protfolio
+       |
+       ->Resume
 ```
 
 ---
