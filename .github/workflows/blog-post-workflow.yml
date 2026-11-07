@@ -18,4 +18,4 @@ jobs:
           readme_path: "/B/Blog.md"
           #comment_tag_name: "BLOG"
           #Its deafult value is "BLOG-POST-LIST"
-          feed_list: "https://charlih.blogspot.com"
+          feed_list: "https://charlih.blogspot.com/feeds/posts/default"

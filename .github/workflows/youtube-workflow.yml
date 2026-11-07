@@ -17,5 +17,5 @@ jobs:
         with:
           readme_path: "/Y/Youtube.md"
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://ww.youtube.com/feeds/videos.xml?channel_id=UCpGvtruDR3AmTqgvIF6dXyg"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCpGvtruDR3AmTqgvIF6dXyg"
           
