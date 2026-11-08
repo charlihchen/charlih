@@ -28,15 +28,15 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
-| 1 | | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 88 |
-| 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 34 |
+| 1 | | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 89 |
+| 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 36 |
 
 ## 2025
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | | 林憶蓮 + 林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 161 |
-| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 606 |
+| 2 | | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 612 |
 | 3 | | 黃于恩 溫妮 Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 58 |
 | 4 | | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
 | 5 | | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
@@ -63,7 +63,7 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---:|:---|:---|:---:|:---:|---:|
-| 1 | | Quirky Pop | [Make It a Beautiful Day](https://youtu.be/pXFGrc-7nqo) | Jun 1, 2022 | 1263 |
+| 1 | | Quirky Pop | [Make It a Beautiful Day](https://youtu.be/pXFGrc-7nqo) | Jun 1, 2022 | 1264 |
 
 ## 2013
 
