@@ -50,7 +50,7 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
-| 1 | <a href="https://www.youtube.com/watch?v=wG3zJsM-CEM"><img src="https://img.youtube.com/vi/wG3zJsM-CEM/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Lionel Richie feat Shania Twain | [Endless Love](https://youtu.be/wG3zJsM-CEM) | Oct 5, 2024 | 14 |
+| 1 | <a href="https://www.youtube.com/watch?v=wG3zJsM-CEM"><img src="https://img.youtube.com/vi/wG3zJsM-CEM/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Lionel Richie feat.<br>Shania Twain | [Endless Love](https://youtu.be/wG3zJsM-CEM) | Oct 5, 2024 | 14 |
 | 2 | <a href="https://www.youtube.com/watch?v=OZkDLu89Ro0"><img src="https://img.youtube.com/vi/OZkDLu89Ro0/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Debbie Gibson | [Lost in Your Eyes](https://youtu.be/OZkDLu89Ro0) | Sep 21, 2024 | 82 |
 | 3 | <a href="https://www.youtube.com/watch?v=mgCYsmPcJn0"><img src="https://img.youtube.com/vi/mgCYsmPcJn0/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Diana Ross | [If We Hold on Together](https://youtu.be/mgCYsmPcJn0) | Sep 16, 2024 | 41 |
 | 4 | <a href="https://www.youtube.com/watch?v=hHQ2ruygNyc"><img src="https://img.youtube.com/vi/hHQ2ruygNyc/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Starship | [Nothing's Gonna Stop Us Now](https://youtu.be/hHQ2ruygNyc) | Sep 13, 2024 | 354 |
