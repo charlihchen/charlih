@@ -11,7 +11,7 @@ kernelspec:
 title: N
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Charlih Chen
 exports:
   - format: typst
     template: lapreprint-typst
