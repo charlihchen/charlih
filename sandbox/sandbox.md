@@ -62,6 +62,7 @@ Essays and theses serve different academic purposes. Essays are shorter and focu
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 鼠 | 牛 | 虎 | 兔 | 龍 | 蛇 | 馬 | 羊 | 猴 | 雞 | 狗 | 豬 |
 | mouse | cow | tiger | rabbit | dragon | snake | horse | sheep | monkey | rooster | dog | pig |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## school
 
