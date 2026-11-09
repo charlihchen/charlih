@@ -45,6 +45,7 @@ DIY KTV created by Charlih Chen so far :)
 | 8 | <a href="https://www.youtube.com/watch?v=q79MY0dmCVM"><img src="https://img.youtube.com/vi/q79MY0dmCVM/0.jpg" alt="YouTube Video" width="100" height="50"></a> | The Police | [Every Breath You Take](https://youtu.be/q79MY0dmCVM) | Jun 5, 2026 | 159 |
 | 9 | <a href="https://www.youtube.com/watch?v=JlTI4eNvue4"><img src="https://img.youtube.com/vi/JlTI4eNvue4/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 陳淑樺 | [Sukiyaki (It's all because of you)](https://youtu.be/JlTI4eNvue4) | May 6, 2026 | 283 |
 | 10 | <a href="https://www.youtube.com/watch?v=EREDYcJrAuQ"><img src="https://img.youtube.com/vi/EREDYcJrAuQ/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 台大合唱團 | [如果明天就是下一生](https://youtu.be/EREDYcJrAuQ) | Mar 10, 2026 | 237 |
+{.no-wrap-col-1}
 
 ## 2024
 
