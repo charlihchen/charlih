@@ -61,3 +61,13 @@ Essays and theses serve different academic purposes. Essays are shorter and focu
 | :mouse: | :cow: | :tiger: | :rabbit: | :dragon: | :snake: | :horse: | :sheep: | :monkey: | :rooster: | :dog: | :pig: |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
+## school
+
+- Primary school (國小) : 利澤國小
+- Middle school (國中) : 文化國中
+- 5-year junior college (五專) : 復興工專
+- University (大學) : IUPUI
+- Serving in the military (當兵) 2-Year-1-month@成功嶺 : 嘉義中莊
+
+
+
