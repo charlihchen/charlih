@@ -28,7 +28,12 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
-| 1 | [![](https://img.youtube.com/vi/bDpQe6I-oYs/0.jpg =100x20)](https://www.youtube.com/watch?v=bDpQe6I-oYs) | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 89 |
+| 1 | <a href="https://www.youtube.com/watch?v=bDpQe6I-oYs">
+  <img src="https://img.youtube.com/vi/bDpQe6I-oYs/0.jpg"
+       alt="YouTube Video"
+       width="100"
+       height="20">
+</a> | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 89 |
 | 2 | | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 36 |
 
 ## 2025
