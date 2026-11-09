@@ -18,10 +18,16 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Project
+# Project(s)
 
-## [IndexBox](https://indexbox.com)
+My project(s) so far...
 
-## Chinese language
+## Project #1: indexbox.com
+
+[indexbox.com](https://indexbox.com)
+
+## Project #2: Chinese language
 
 ### [Zhuyin](https://indexbox.com/chinese/chinese/) AKA. BoPoMoFo aka. ㄅㄆㄇㄈ
+
+## Project #3
