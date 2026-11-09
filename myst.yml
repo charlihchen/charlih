@@ -37,7 +37,7 @@ project:
         - file: pages/part01/projects.md
     - title: Archievements
       children:
-        - file: a/achievements.md
+        - file: A/Achievements.md
     - title: DIY
       children:
         - file: pages/diy/diy.md
