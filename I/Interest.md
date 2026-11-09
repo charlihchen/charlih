@@ -20,7 +20,7 @@ exports:
 
 # Interest
 
-## Tennis
+## [Tennis](t/tennis)
 
-## Karaoke MV creation
+## [Karaoke MV creation](k/ktv)
 
