@@ -20,27 +20,62 @@ exports:
 
 # A
 
-## [About](About.md)
+::::{grid} 1 1 2 2
 
-## [AI](AI.md)
+:::{card} About
+:link: /a/about
+A little about me.
 
-## [Academy](Academy.md)
+Read more →
+:::
 
-## [Address](Address.md)
+:::{card} AI
+:link: /a/ai
+Notes on AI.
 
-## [Age](Age.md)
+Read more →
+:::
 
-## [A2Z](A2Z.md)
+:::{card} Academy
+:link: /a/academy
+School and learning notes.
 
-## [Activity](Activity.md)
+Read more →
+:::
 
-## [Archievement](/a/archievement)
-```
-[Background Image for the blog block]
-Title: Achievements
-Abbraction：
-.....
-.....
--------------------------
-Read more -> | 5 min read
-```
+:::{card} Address
+:link: /a/address
+Where to find me.
+
+Read more →
+:::
+
+:::{card} Age
+:link: /a/age
+Age and milestones.
+
+Read more →
+:::
+
+:::{card} A2Z
+:link: /a/a2z
+The A–Z index of everything on this site.
+
+Read more →
+:::
+
+:::{card} Activity
+:link: /a/activity
+What I'm up to.
+
+Read more →
+:::
+
+:::{card} Achievement(s)
+:link: /a/achievements
+Milestones from 1996 to 2026 — Chinese Culture Club president and campus IT consultant at IUPUI, Windows Insider since 2000, creator of the Tennis Group/Teams site.
+
+Read more →
+:::
+
+::::
