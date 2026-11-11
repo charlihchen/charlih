@@ -24,6 +24,7 @@ exports:
 
 :::{card} Resume
 :link: /r/resume
+:header: ![Resume](images/resume.jpg)
 Resume notes.
 
 Read more →

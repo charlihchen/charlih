@@ -24,6 +24,7 @@ exports:
 
 :::{card} EV
 :link: /e/ev
+:header: ![EV](images/ev.jpg)
 EV — Tesla.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Event
 :link: /e/event
+:header: ![Event](images/event.jpg)
 Events — KFF, the Kid Fun Festival.
 
 Read more →
@@ -40,6 +42,7 @@ Read more →
 
 :::{card} Email
 :link: /e/email
+:header: ![Email](images/email.jpg)
 Email notes.
 
 Read more →
@@ -48,6 +51,7 @@ Read more →
 
 :::{card} Essay
 :link: /e/essay
+:header: ![Essay](images/essay.jpg)
 Essays, including the Chinese language essay.
 
 Read more →
@@ -56,6 +60,7 @@ Read more →
 
 :::{card} Experience
 :link: /e/experience
+:header: ![Experience](images/experience.jpg)
 Work experience — IT Engineer at Fortinet.
 
 Read more →
@@ -64,6 +69,7 @@ Read more →
 
 :::{card} Education
 :link: /e/education
+:header: ![Education](images/education.jpg)
 Education — BS in Computer Technology, IUPUI.
 
 Read more →

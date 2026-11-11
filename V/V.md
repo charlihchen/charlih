@@ -24,6 +24,7 @@ exports:
 
 :::{card} Vehicle
 :link: /v/vehicle
+:header: ![Vehicle](images/vehicle.jpg)
 Vehicle notes.
 
 Read more →

@@ -24,6 +24,7 @@ exports:
 
 :::{card} Q&A
 :link: /q/q-and-a
+:header: ![Q&A](images/q-and-a.jpg)
 Questions and answers.
 
 Read more →
@@ -31,6 +32,7 @@ Read more →
 
 :::{card} QR code
 :link: /q/qr-code
+:header: ![QR code](images/qr-code.jpg)
 QR code for charlih.com.
 
 Read more →

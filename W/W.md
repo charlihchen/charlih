@@ -24,6 +24,7 @@ exports:
 
 :::{card} WWW
 :link: /w/www
+:header: ![WWW](images/www.jpg)
 Websites created by Charlih.
 
 Read more →

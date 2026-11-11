@@ -24,6 +24,7 @@ exports:
 
 :::{card} Search
 :link: /s/search
+:header: ![Search](images/search.jpg)
 Search — Google and Bing.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Shop
 :link: /s/shop
+:header: ![Shop](images/shop.jpg)
 Shop — Amazon, Best Buy and more.
 
 Read more →
@@ -40,6 +42,7 @@ Read more →
 
 :::{card} Social
 :link: /s/social
+:header: ![Social](images/social.jpg)
 Social media — Facebook and more.
 
 Read more →

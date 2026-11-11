@@ -24,6 +24,7 @@ exports:
 
 :::{card} Project
 :link: /p/project
+:header: ![Project](images/project.jpg)
 Projects so far — indexbox.com and more.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Phone
 :link: /p/phone
+:header: ![Phone](images/phone.jpg)
 Phone notes.
 
 Read more →
@@ -40,6 +42,7 @@ Read more →
 
 :::{card} Protfolio
 :link: /p/protfolio
+:header: ![Protfolio](images/protfolio.jpg)
 Protfolio notes.
 
 Read more →
@@ -48,6 +51,7 @@ Read more →
 
 :::{card} QR code
 :link: /q/qr-code
+:header: ![QR code](images/qr-code.jpg)
 QR code for charlih.com.
 
 Read more →

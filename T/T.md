@@ -24,6 +24,7 @@ exports:
 
 :::{card} Tola
 :link: /t/tola
+:header: ![Tola](images/Tola.jpg)
 In memory of Tola.
 
 Read more →

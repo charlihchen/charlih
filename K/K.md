@@ -24,6 +24,7 @@ exports:
 
 :::{card} KTV
 :link: /k/ktv
+:header: ![KTV](images/ktv.jpg)
 DIY KTV videos created by Charlih.
 
 Read more →

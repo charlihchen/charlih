@@ -24,6 +24,7 @@ exports:
 
 :::{card} Language
 :link: /l/language
+:header: ![Language](images/language.jpg)
 Languages — Chinese and English.
 
 Read more →

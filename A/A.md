@@ -24,6 +24,7 @@ exports:
 
 :::{card} About
 :link: /a/about
+:header: ![About](images/about.jpg)
 A little about me.
 
 Read more →
@@ -31,6 +32,7 @@ Read more →
 
 :::{card} AI
 :link: /a/ai
+:header: ![AI](images/ai.jpg)
 Notes on AI.
 
 Read more →
@@ -38,6 +40,7 @@ Read more →
 
 :::{card} Academy
 :link: /a/academy
+:header: ![Academy](images/academy.jpg)
 School and learning notes.
 
 Read more →
@@ -45,6 +48,7 @@ Read more →
 
 :::{card} Address
 :link: /a/address
+:header: ![Address](images/address.jpg)
 Where to find me.
 
 Read more →
@@ -52,6 +56,7 @@ Read more →
 
 :::{card} Age
 :link: /a/age
+:header: ![Age](images/age.jpg)
 Age and milestones.
 
 Read more →
@@ -67,6 +72,7 @@ Read more →
 
 :::{card} Activity
 :link: /a/activity
+:header: ![Activity](images/activity.jpg)
 What I'm up to.
 
 Read more →
@@ -74,6 +80,7 @@ Read more →
 
 :::{card} Achievement(s)
 :link: /a/achievements
+:header: ![Achievement(s)](images/achievements.jpg)
 Milestones from 1996 to 2026 — Chinese Culture Club president and campus IT consultant at IUPUI, Windows Insider since 2000, creator of the Tennis Group/Teams site.
 
 Read more →

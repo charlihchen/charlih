@@ -24,6 +24,7 @@ exports:
 
 :::{card} Favorite
 :link: /f/favorite
+:header: ![Favorite](images/favorite.jpg)
 Favorites.
 
 Read more →

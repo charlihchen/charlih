@@ -24,6 +24,7 @@ exports:
 
 :::{card} Game
 :link: /g/game
+:header: ![Game](images/game.jpg)
 Games — PlayStation and Nintendo Switch.
 
 Read more →

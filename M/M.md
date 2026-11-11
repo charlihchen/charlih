@@ -24,6 +24,7 @@ exports:
 
 :::{card} Menu
 :link: /m/menu
+:header: ![Menu](images/menu.jpg)
 Menu notes.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Mi-T
 :link: /m/mi-t
+:header: ![Mi-T](images/MiT_face.jpg)
 In memory of Mi-T.
 
 Read more →

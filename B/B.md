@@ -24,6 +24,7 @@ exports:
 
 :::{card} Blog
 :link: /b/blog
+:header: ![Blog](images/blog.jpg)
 Latest blog posts, synced from Blogspot.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Bioraphy
 :link: /b/bioraphy
+:header: ![Bioraphy](images/bioraphy.jpg)
 Biography.
 
 Read more →
@@ -40,6 +42,7 @@ Read more →
 
 :::{card} Birthday
 :link: /b/birthday
+:header: ![Birthday](images/birthday.jpg)
 Birthday notes.
 
 Read more →
@@ -48,6 +51,7 @@ Read more →
 
 :::{card} Blood Type
 :link: /b/blood-type
+:header: ![Blood Type](images/blood-type.jpg)
 Blood types and compatibility.
 
 Read more →

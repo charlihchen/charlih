@@ -23,6 +23,7 @@ exports:
 ::::{grid} 1 1 2 2
 
 :::{card} UUU
+:header: ![UUU](images/uuu.jpg)
 UUU.
 
 :::

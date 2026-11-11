@@ -24,6 +24,7 @@ exports:
 
 :::{card} Interest
 :link: /i/interest
+:header: ![Interest](images/interest.jpg)
 Interests — tennis and karaoke MV creation.
 
 Read more →

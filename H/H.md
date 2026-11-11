@@ -23,6 +23,7 @@ exports:
 ::::{grid} 1 1 2 2
 
 :::{card} Helpdesk
+:header: ![Helpdesk](images/helpdesk.jpg)
 IT helpdesk notes.
 
 :::

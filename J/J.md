@@ -24,6 +24,7 @@ exports:
 
 :::{card} Job
 :link: /j/job
+:header: ![Job](images/job.jpg)
 Job notes.
 
 Read more →

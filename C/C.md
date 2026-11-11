@@ -24,6 +24,7 @@ exports:
 
 :::{card} Car
 :link: /c/car
+:header: ![Car](images/car.jpg)
 Car notes.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Chinese-zodiac
 :link: /c/chinese-zodiac
+:header: ![Chinese-zodiac](images/chinese-zodiac.jpg)
 Chinese zodiac.
 
 Read more →
@@ -40,6 +42,7 @@ Read more →
 
 :::{card} Coby
 :link: /c/coby
+:header: ![Coby](images/ThinkingCoby.jpg)
 In memory of Coby.
 
 Read more →
@@ -48,6 +51,7 @@ Read more →
 
 :::{card} Category
 :link: /c/category
+:header: ![Category](images/category.jpg)
 Category index, Yahoo! style.
 
 Read more →
@@ -56,6 +60,7 @@ Read more →
 
 :::{card} Charlih
 :link: /c/charlih
+:header: ![Charlih](images/charlih.jpg)
 Charlih — or is it Charlie?
 
 Read more →
@@ -64,6 +69,7 @@ Read more →
 
 :::{card} Certification
 :link: /c/certification
+:header: ![Certification](images/certification.jpg)
 Fortinet NSE certifications.
 
 Read more →

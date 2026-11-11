@@ -24,6 +24,7 @@ exports:
 
 :::{card} Zodiac
 :link: /z/zodiac
+:header: ![Zodiac](images/zodiac.jpg)
 Zodiac — Aries and more.
 
 Read more →

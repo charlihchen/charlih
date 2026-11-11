@@ -32,6 +32,7 @@ Read more →
 
 :::{card} OCR
 :link: /o/ocr
+:header: ![OCR](images/ocr.jpg)
 OCR — optical character recognition, and video recognition.
 
 Read more →

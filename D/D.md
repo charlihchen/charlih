@@ -24,6 +24,7 @@ exports:
 
 :::{card} DIY
 :link: /d/diy
+:header: ![DIY](images/diy.jpg)
 DIY projects — KTV and PC.
 
 Read more →
@@ -32,6 +33,7 @@ Read more →
 
 :::{card} Didi
 :link: /d/didi
+:header: ![Didi](images/DiDi2025.jpg)
 In memory of Didi.
 
 Read more →
@@ -40,6 +42,7 @@ Read more →
 
 :::{card} Dog
 :link: /d/dog
+:header: ![Dog](images/dog.jpg)
 My dogs.
 
 Read more →
