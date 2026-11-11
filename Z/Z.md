@@ -33,6 +33,7 @@ Read more →
 
 :::{card} Zhuyin
 :link: /z/zhuyin
+:header: ![Zhuyin](images/zhuyin.jpg)
 Zhuyin, a.k.a. BoPoMoFo (ㄅㄆㄇㄈ).
 
 Read more →

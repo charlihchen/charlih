@@ -24,6 +24,7 @@ exports:
 
 :::{card} Others
 :link: /o/others
+:header: ![Others](images/others.jpg)
 Other pages.
 
 Read more →

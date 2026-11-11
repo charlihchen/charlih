@@ -24,6 +24,7 @@ exports:
 
 :::{card} YouTube
 :link: /y/youtube
+:header: ![YouTube](images/youtube.jpg)
 Latest YouTube videos.
 
 Read more →

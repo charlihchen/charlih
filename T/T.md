@@ -33,6 +33,7 @@ Read more →
 
 :::{card} Tang Poems
 :link: /t/tang-poems
+:header: ![Tang Poems](images/tang-poems.jpg)
 Tang poems.
 
 Read more →
@@ -41,6 +42,7 @@ Read more →
 
 :::{card} Tennis
 :link: https://indexbox.com/tennis
+:header: ![Tennis](images/tennis.jpg)
 Tennis group and teams site.
 
 Read more →
