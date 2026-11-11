@@ -36,10 +36,11 @@ exports:
 
 ## [Archievement](/a/archievement)
 ```
-[Image here]
+[Background Image for the blog block]
 Title: Achievements
 Abbraction：
 .....
 .....
-Read more ->
+-------------------------
+Read more -> | 5 min read
 ```
