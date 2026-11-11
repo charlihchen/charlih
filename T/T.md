@@ -35,7 +35,7 @@ Read more →
 :link: /t/tang-poems
 :header: ![Tang Poems](images/tang-poems.jpg)
 Tang poems.
-唐詩三百首
+唐詩三百首。
 
 Read more →
 
