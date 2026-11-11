@@ -20,4 +20,14 @@ exports:
 
 # J
 
-## [Job](Job.md)
+::::{grid} 1 1 2 2
+
+:::{card} Job
+:link: /j/job
+Job notes.
+
+Read more →
+
+:::
+
+::::

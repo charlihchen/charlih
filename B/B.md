@@ -20,8 +20,38 @@ exports:
 
 # B
 
-## [Blog](Blog.md)
+::::{grid} 1 1 2 2
 
-## [Bioraphy](Bioraphy.md)
+:::{card} Blog
+:link: /b/blog
+Latest blog posts, synced from Blogspot.
 
-## [Birthday](Birthday.md)
+Read more →
+
+:::
+
+:::{card} Bioraphy
+:link: /b/bioraphy
+Biography.
+
+Read more →
+
+:::
+
+:::{card} Birthday
+:link: /b/birthday
+Birthday notes.
+
+Read more →
+
+:::
+
+:::{card} Blood Type
+:link: /b/blood-type
+Blood types and compatibility.
+
+Read more →
+
+:::
+
+::::

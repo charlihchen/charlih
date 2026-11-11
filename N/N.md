@@ -20,6 +20,30 @@ exports:
 
 # N
 
-## [News](News.md)
+::::{grid} 1 1 2 2
 
-## [Name](Name.md)
+:::{card} News
+:link: /n/news
+News notes.
+
+Read more →
+
+:::
+
+:::{card} Name
+:link: /n/name
+Name notes.
+
+Read more →
+
+:::
+
+:::{card} Networking
+:link: /n/networking
+Networking — LinkedIn and more.
+
+Read more →
+
+:::
+
+::::

@@ -20,4 +20,14 @@ exports:
 
 # I
 
-## [Interest](Interest.md)
+::::{grid} 1 1 2 2
+
+:::{card} Interest
+:link: /i/interest
+Interests — tennis and karaoke MV creation.
+
+Read more →
+
+:::
+
+::::

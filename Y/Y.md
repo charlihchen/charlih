@@ -20,6 +20,14 @@ exports:
 
 # Y
 
-## [YouTube](Youtube.md)
+::::{grid} 1 1 2 2
 
+:::{card} YouTube
+:link: /y/youtube
+Latest YouTube videos.
 
+Read more →
+
+:::
+
+::::

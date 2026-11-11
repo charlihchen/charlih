@@ -20,8 +20,30 @@ exports:
 
 # T
 
-## [Tola](Tola.md)
+::::{grid} 1 1 2 2
 
-## [Tang Poems](Tand-Poems.md)
+:::{card} Tola
+:link: /t/tola
+In memory of Tola.
 
-## [Tennis](https://indexbox.com/tennis)
+Read more →
+
+:::
+
+:::{card} Tang Poems
+:link: /t/tang-poems
+Tang poems.
+
+Read more →
+
+:::
+
+:::{card} Tennis
+:link: https://indexbox.com/tennis
+Tennis group and teams site.
+
+Read more →
+
+:::
+
+::::

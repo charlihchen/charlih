@@ -20,4 +20,14 @@ exports:
 
 # F
 
-## [Favorite](Favorite.md)
+::::{grid} 1 1 2 2
+
+:::{card} Favorite
+:link: /f/favorite
+Favorites.
+
+Read more →
+
+:::
+
+::::

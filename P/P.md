@@ -20,9 +20,38 @@ exports:
 
 # P
 
-## [Project](Project.md)
+::::{grid} 1 1 2 2
 
-## [Phone](Phone.md)
+:::{card} Project
+:link: /p/project
+Projects so far — indexbox.com and more.
 
-## [QR code](QR-code.md)
+Read more →
 
+:::
+
+:::{card} Phone
+:link: /p/phone
+Phone notes.
+
+Read more →
+
+:::
+
+:::{card} Protfolio
+:link: /p/protfolio
+Protfolio notes.
+
+Read more →
+
+:::
+
+:::{card} QR code
+:link: /q/qr-code
+QR code for charlih.com.
+
+Read more →
+
+:::
+
+::::

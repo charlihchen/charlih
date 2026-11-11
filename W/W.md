@@ -20,4 +20,14 @@ exports:
 
 # W
 
-## [WWW](WWW.md)
+::::{grid} 1 1 2 2
+
+:::{card} WWW
+:link: /w/www
+Websites created by Charlih.
+
+Read more →
+
+:::
+
+::::

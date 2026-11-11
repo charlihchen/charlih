@@ -20,6 +20,22 @@ exports:
 
 # Z
 
-## [Zodiac](Zodiac.md)
+::::{grid} 1 1 2 2
 
-## [Zhuyin](Zhuyin.md)
+:::{card} Zodiac
+:link: /z/zodiac
+Zodiac — Aries and more.
+
+Read more →
+
+:::
+
+:::{card} Zhuyin
+:link: /z/zhuyin
+Zhuyin, a.k.a. BoPoMoFo (ㄅㄆㄇㄈ).
+
+Read more →
+
+:::
+
+::::

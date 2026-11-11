@@ -20,6 +20,22 @@ exports:
 
 # M
 
-## [Menu](Menu.md)
+::::{grid} 1 1 2 2
 
-## [Mi-T](Mi-T.md)
+:::{card} Menu
+:link: /m/menu
+Menu notes.
+
+Read more →
+
+:::
+
+:::{card} Mi-T
+:link: /m/mi-t
+In memory of Mi-T.
+
+Read more →
+
+:::
+
+::::

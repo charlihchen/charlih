@@ -20,4 +20,14 @@ exports:
 
 # K
 
-## [KTV](KTV.md)
+::::{grid} 1 1 2 2
+
+:::{card} KTV
+:link: /k/ktv
+DIY KTV videos created by Charlih.
+
+Read more →
+
+:::
+
+::::

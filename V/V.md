@@ -20,4 +20,14 @@ exports:
 
 # V
 
-## [Vehicle](Vehicle.md)
+::::{grid} 1 1 2 2
+
+:::{card} Vehicle
+:link: /v/vehicle
+Vehicle notes.
+
+Read more →
+
+:::
+
+::::

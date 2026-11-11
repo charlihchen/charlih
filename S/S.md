@@ -20,8 +20,30 @@ exports:
 
 # S
 
-## [Search](Search.md)
+::::{grid} 1 1 2 2
 
-## [Shop](Shop.md)
+:::{card} Search
+:link: /s/search
+Search — Google and Bing.
 
-## [Social](Social.md)
+Read more →
+
+:::
+
+:::{card} Shop
+:link: /s/shop
+Shop — Amazon, Best Buy and more.
+
+Read more →
+
+:::
+
+:::{card} Social
+:link: /s/social
+Social media — Facebook and more.
+
+Read more →
+
+:::
+
+::::

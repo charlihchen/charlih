@@ -72,7 +72,9 @@ project:
       children:
         - file: B/B.md
         - file: B/Blog.md
+        - file: B/Bioraphy.md
         - file: B/Birthday.md
+        - file: B/Blood-Type.md
     - title: C
       children:
         - file: C/C.md
@@ -138,6 +140,7 @@ project:
       children:
         - file: O/O.md
         - file: O/Others.md
+        - file: O/OCR.md
     - title: P
       children:
         - file: P/P.md

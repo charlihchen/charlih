@@ -20,4 +20,14 @@ exports:
 
 # G
 
-## [Game](Game.md)
+::::{grid} 1 1 2 2
+
+:::{card} Game
+:link: /g/game
+Games — PlayStation and Nintendo Switch.
+
+Read more →
+
+:::
+
+::::

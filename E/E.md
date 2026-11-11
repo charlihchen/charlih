@@ -20,14 +20,54 @@ exports:
 
 # E
 
-## [EV](EV.md)
+::::{grid} 1 1 2 2
 
-## [Event](Event.md)
+:::{card} EV
+:link: /e/ev
+EV — Tesla.
 
-## [Email](Email.md)
+Read more →
 
-## [Essay](Essay.md)
+:::
 
-## [Experience](Experience.md)
+:::{card} Event
+:link: /e/event
+Events — KFF, the Kid Fun Festival.
 
-## [Education](Education.md)
+Read more →
+
+:::
+
+:::{card} Email
+:link: /e/email
+Email notes.
+
+Read more →
+
+:::
+
+:::{card} Essay
+:link: /e/essay
+Essays, including the Chinese language essay.
+
+Read more →
+
+:::
+
+:::{card} Experience
+:link: /e/experience
+Work experience — IT Engineer at Fortinet.
+
+Read more →
+
+:::
+
+:::{card} Education
+:link: /e/education
+Education — BS in Computer Technology, IUPUI.
+
+Read more →
+
+:::
+
+::::

@@ -20,4 +20,14 @@ exports:
 
 # L
 
-## [Language](Language.md)
+::::{grid} 1 1 2 2
+
+:::{card} Language
+:link: /l/language
+Languages — Chinese and English.
+
+Read more →
+
+:::
+
+::::

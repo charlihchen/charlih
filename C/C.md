@@ -20,14 +20,54 @@ exports:
 
 # C
 
-## [Car](Car.md)
+::::{grid} 1 1 2 2
 
-## [Chinese-zodiac](Chinese-zodiac.md)
+:::{card} Car
+:link: /c/car
+Car notes.
 
-## [Coby](Coby.md)
+Read more →
 
-## [Category](Category.md)
+:::
 
-## [Charlih](Charlih.md)
+:::{card} Chinese-zodiac
+:link: /c/chinese-zodiac
+Chinese zodiac.
 
-## [Certification](Certification.md)
+Read more →
+
+:::
+
+:::{card} Coby
+:link: /c/coby
+In memory of Coby.
+
+Read more →
+
+:::
+
+:::{card} Category
+:link: /c/category
+Category index, Yahoo! style.
+
+Read more →
+
+:::
+
+:::{card} Charlih
+:link: /c/charlih
+Charlih — or is it Charlie?
+
+Read more →
+
+:::
+
+:::{card} Certification
+:link: /c/certification
+Fortinet NSE certifications.
+
+Read more →
+
+:::
+
+::::

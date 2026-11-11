@@ -20,4 +20,22 @@ exports:
 
 # O
 
-## [Others](Others.md)
+::::{grid} 1 1 2 2
+
+:::{card} Others
+:link: /o/others
+Other pages.
+
+Read more →
+
+:::
+
+:::{card} OCR
+:link: /o/ocr
+OCR — optical character recognition, and video recognition.
+
+Read more →
+
+:::
+
+::::

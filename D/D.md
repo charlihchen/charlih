@@ -20,8 +20,30 @@ exports:
 
 # D
 
-## [DIY](DIY.md)
+::::{grid} 1 1 2 2
 
-## [Didi](Didi.md)
+:::{card} DIY
+:link: /d/diy
+DIY projects — KTV and PC.
 
-## [Dog](Dog.md)
+Read more →
+
+:::
+
+:::{card} Didi
+:link: /d/didi
+In memory of Didi.
+
+Read more →
+
+:::
+
+:::{card} Dog
+:link: /d/dog
+My dogs.
+
+Read more →
+
+:::
+
+::::

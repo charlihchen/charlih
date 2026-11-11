@@ -20,4 +20,20 @@ exports:
 
 # Q
 
-## [Q&A](Q&A.md)
+::::{grid} 1 1 2 2
+
+:::{card} Q&A
+:link: /q/q-and-a
+Questions and answers.
+
+Read more →
+:::
+
+:::{card} QR code
+:link: /q/qr-code
+QR code for charlih.com.
+
+Read more →
+:::
+
+::::
