@@ -36,7 +36,7 @@ DIY KTV created by Charlih Chen so far :)
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | <a href="https://www.youtube.com/watch?v=aljggaOHjW0"><img src="https://img.youtube.com/vi/aljggaOHjW0/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 林憶蓮 feats.<br> 林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 161 |
-| 2 | <a href="https://www.youtube.com/watch?v=Lc6bH3WNhmA"><img src="https://img.youtube.com/vi/Lc6bH3WNhmA/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 614 |
+| 2 | <a href="https://www.youtube.com/watch?v=Lc6bH3WNhmA"><img src="https://img.youtube.com/vi/Lc6bH3WNhmA/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 617 |
 | 3 | <a href="https://www.youtube.com/watch?v=tiVfj4syqHc"><img src="https://img.youtube.com/vi/tiVfj4syqHc/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 黃于恩<br>溫妮<br>Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 60 |
 | 4 | <a href="https://www.youtube.com/watch?v=qZIf4ATvyC4"><img src="https://img.youtube.com/vi/qZIf4ATvyC4/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
 | 5 | <a href="https://www.youtube.com/watch?v=Kuy3xXdNjIE"><img src="https://img.youtube.com/vi/Kuy3xXdNjIE/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
