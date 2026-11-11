@@ -31,10 +31,11 @@ Read more →
 
 :::
 
-:::{card} Tang Poems
+:::{card} Tang Poems (唐詩)
 :link: /t/tang-poems
 :header: ![Tang Poems](images/tang-poems.jpg)
 Tang poems.
+唐詩三百首
 
 Read more →
 
