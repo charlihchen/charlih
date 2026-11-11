@@ -24,7 +24,7 @@ exports:
 
 {numref}`photo-Tola` Tola.
 
-```{figure} /img/dog/Tola.jpg
+```{figure} images/Tola.jpg
 :name: photo-Tola
 :alt: Tola
 
