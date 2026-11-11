@@ -59,6 +59,7 @@ Read more →
 
 :::{card} A2Z
 :link: /a/a2z
+:header: ![A2Z alphabet chalkboard](images/a2z.jpg)
 The A–Z index of everything on this site.
 
 Read more →
