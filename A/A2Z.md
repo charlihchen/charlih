@@ -20,7 +20,7 @@ exports:
 
 # A2Z
 
-| [A](A/A)] | [B](b/b)] | [C](c/c) | [D](d/d) | [E](e/e) | [F](f/f) | [G](g/g) | [H](h/h) | [I](i/i) | [J](j/j) | [K](k/k) | [L](l/l) | [M](m/m) | [N](n/n) | [O](o/o) | [P](p/p) | [Q](q/q) | [R](r/r) | [S](s/s) | [T](t/t) | [U](u/u) | [V](v/v) | [W](w/w) | [X](x/x) | [Y](y/y) | [Z](z/z) |
+| [A](A/A.md)] | [B](B/B.md)] | [C](c/c) | [D](d/d) | [E](e/e) | [F](f/f) | [G](g/g) | [H](h/h) | [I](i/i) | [J](j/j) | [K](k/k) | [L](l/l) | [M](m/m) | [N](n/n) | [O](o/o) | [P](p/p) | [Q](q/q) | [R](r/r) | [S](s/s) | [T](t/t) | [U](u/u) | [V](v/v) | [W](w/w) | [X](x/x) | [Y](y/y) | [Z](z/z) |
 
 ---
 
