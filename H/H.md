@@ -28,4 +28,10 @@ IT helpdesk notes.
 
 :::
 
+:::{card} Highlights
+:header: ![Helpdesk](images/highlights.jpg)
+My top-performing article.
+
+:::
+
 ::::
