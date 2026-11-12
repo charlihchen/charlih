@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: Highlights
-abstract: "Google blogger"
+abstract: "My highest-impact work"
 authors:
   - name: Charlih Chen
 exports:
@@ -18,6 +18,6 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Hiughlights
+# Highlights
 
 
