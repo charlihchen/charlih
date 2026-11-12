@@ -23,12 +23,14 @@ exports:
 ::::{grid} 1 1 2 2
 
 :::{card} Helpdesk
+:link: /h/helpdesk
 :header: ![Helpdesk](images/helpdesk.jpg)
 IT helpdesk notes.
 
 :::
 
 :::{card} Highlights
+:link: /h/highlights
 :header: ![Helpdesk](images/highlights.jpg)
 My top-performing article.
 
