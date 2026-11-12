@@ -185,6 +185,7 @@ project:
     - title: Y
       children:
         - file: Y/Y.md
+        - file: Y/Youtube.md
     - title: Z
       children:
         - file: Z/Z.md
