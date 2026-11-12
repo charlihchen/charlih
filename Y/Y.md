@@ -23,7 +23,7 @@ exports:
 ::::{grid} 1 1 2 2
 
 :::{card} YouTube
-:link: /y/youtube
+:link: /Y/Youtube.md
 :header: ![YouTube](images/youtube.jpg)
 Latest YouTube videos.
 
