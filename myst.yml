@@ -109,6 +109,7 @@ project:
     - title: H
       children:
         - file: H/H.md
+        - file: H/Highlights.md
     - title: I
       children:
         - file: I/I.md
