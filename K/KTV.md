@@ -28,7 +28,7 @@ DIY KTV created by Charlih Chen so far :)
 
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
-| 1 | <a href="https://www.youtube.com/watch?v=bDpQe6I-oYs"><img src="https://img.youtube.com/vi/bDpQe6I-oYs/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 91 |
+| 1 | <a href="https://www.youtube.com/watch?v=bDpQe6I-oYs"><img src="https://img.youtube.com/vi/bDpQe6I-oYs/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 邱振哲 | [哈囉](https://youtu.be/bDpQe6I-oYs) | Sep 14, 2026 | 92 |
 | 2 | <a href="https://www.youtube.com/watch?v=T64lABTf854"><img src="https://img.youtube.com/vi/T64lABTf854/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 中央少年廣播合唱團 | [送別](https://youtu.be/T64lABTf854) | Sep 9, 2026 | 38 |
 
 ## 2025
@@ -36,15 +36,15 @@ DIY KTV created by Charlih Chen so far :)
 | No | YouTube Cover | Singer | Song | Uploaded Date | Viewed |
 |:---|:---|:---|:---|:---:|:---:|
 | 1 | <a href="https://www.youtube.com/watch?v=aljggaOHjW0"><img src="https://img.youtube.com/vi/aljggaOHjW0/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 林憶蓮 feats.<br> 林俊傑 | [江南](https://youtu.be/aljggaOHjW0) | Nov 29, 2025 | 161 |
-| 2 | <a href="https://www.youtube.com/watch?v=Lc6bH3WNhmA"><img src="https://img.youtube.com/vi/Lc6bH3WNhmA/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 617 |
+| 2 | <a href="https://www.youtube.com/watch?v=Lc6bH3WNhmA"><img src="https://img.youtube.com/vi/Lc6bH3WNhmA/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 音樂磁場 | [我愛你這樣深](https://youtu.be/Lc6bH3WNhmA) | Nov 5, 2025 | 626 |
 | 3 | <a href="https://www.youtube.com/watch?v=tiVfj4syqHc"><img src="https://img.youtube.com/vi/tiVfj4syqHc/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 黃于恩<br>溫妮<br>Winni | [青春修煉手冊](https://youtu.be/tiVfj4syqHc) | Oct 24, 2025 | 60 |
 | 4 | <a href="https://www.youtube.com/watch?v=qZIf4ATvyC4"><img src="https://img.youtube.com/vi/qZIf4ATvyC4/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Tiffany | [All This Time](https://youtu.be/qZIf4ATvyC4) | Jul 5, 2026 | 27 |
 | 5 | <a href="https://www.youtube.com/watch?v=Kuy3xXdNjIE"><img src="https://img.youtube.com/vi/Kuy3xXdNjIE/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Glee Cast | [Arthur's Theme(Best That You Can Do) ver2](https://youtu.be/Kuy3xXdNjIE) | Jun 29, 2025 | 20 |
 | 6 | <a href="https://www.youtube.com/watch?v=yiqKcSb8L70"><img src="https://img.youtube.com/vi/yiqKcSb8L70/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Glee Cast | [Arthur's Theme(Best That You Can Do)](https://youtu.be/yiqKcSb8L70) | Jun 21, 2025 | 25 |
 | 7 | <a href="https://www.youtube.com/watch?v=G6p3-4bbLco"><img src="https://img.youtube.com/vi/G6p3-4bbLco/0.jpg" alt="YouTube Video" width="100" height="50"></a> | Alizée | [La Isla Bonita](https://youtu.be/G6p3-4bbLco) | Jun 14, 2026 | 237 |
 | 8 | <a href="https://www.youtube.com/watch?v=q79MY0dmCVM"><img src="https://img.youtube.com/vi/q79MY0dmCVM/0.jpg" alt="YouTube Video" width="100" height="50"></a> | The Police | [Every Breath You Take](https://youtu.be/q79MY0dmCVM) | Jun 5, 2026 | 161 |
-| 9 | <a href="https://www.youtube.com/watch?v=JlTI4eNvue4"><img src="https://img.youtube.com/vi/JlTI4eNvue4/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 陳淑樺 | [Sukiyaki (It's all because of you)](https://youtu.be/JlTI4eNvue4) | May 6, 2026 | 288 |
-| 10 | <a href="https://www.youtube.com/watch?v=EREDYcJrAuQ"><img src="https://img.youtube.com/vi/EREDYcJrAuQ/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 台大合唱團 | [如果明天就是下一生](https://youtu.be/EREDYcJrAuQ) | Mar 10, 2026 | 242 |
+| 9 | <a href="https://www.youtube.com/watch?v=JlTI4eNvue4"><img src="https://img.youtube.com/vi/JlTI4eNvue4/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 陳淑樺 | [Sukiyaki (It's all because of you)](https://youtu.be/JlTI4eNvue4) | May 6, 2026 | 291 |
+| 10 | <a href="https://www.youtube.com/watch?v=EREDYcJrAuQ"><img src="https://img.youtube.com/vi/EREDYcJrAuQ/0.jpg" alt="YouTube Video" width="100" height="50"></a> | 台大合唱團 | [如果明天就是下一生](https://youtu.be/EREDYcJrAuQ) | Mar 10, 2026 | 244 |
 
 ## 2024
 
