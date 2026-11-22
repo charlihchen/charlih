@@ -24,9 +24,11 @@ exports:
 
 My personal website created on GitHub on 06APR2026
 
+```
 https://api.github.com/repos/charlihchen/charlih
 "created_at": "2026-04-06T22:34:42Z",
 "created_at": "YYYY-MM-DDTHH:MM:SSZ
+```
 
 ## 2025
 
