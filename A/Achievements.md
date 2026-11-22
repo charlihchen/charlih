@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: Achievement(s)
-abstract: ""
+abstract: "Every project tells a story of curiosity turned into action. This page captures the defining milestones and technical breakthroughs across my journey—from leading student organizations in the '90s to developing DIY KTV software and modern web platforms today. It serves as a living legacy of my passion for technology, music, sports, and lifelong creation."
 authors:
   - name: Charlih Chen
 exports:
