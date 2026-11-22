@@ -49,9 +49,20 @@ https://github.com/charlihchen/DIY-Karaoke-subtitle created at GitHub.com on 11A
 
 DIY Karaoke mixer App(s) help to create KTV video file from music video.
 
-| mix2k.exe | 12k.exe |
-| --- | --- |
-| ![mix2k.exe photo]([https://github.com/charlihchen/DIY-Karaoke-subtitle/blob/main/img/mix2k.png]| ![12k.exe photo]([https://github.com/charlihchen/DIY-Karaoke-subtitle/blob/main/img/12k.png] |
+::::{grid} 2
+:::{figure} images/mix2k.png
+:alt: mix2k.exe photo
+:height: 400px
+
+mix2k.exe
+:::
+:::{figure} images/12k.png
+:alt: 12k.exe photo
+:height: 400px
+
+12k.exe
+:::
+::::
 
 
 ```
