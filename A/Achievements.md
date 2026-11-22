@@ -51,7 +51,7 @@ DIY Karaoke mixer App(s) help to create KTV video file from music video.
 
 | mix2k.exe | 12k.exe |
 | --- | --- |
-| ![mix2k.exe photo]([img/mix2k.png]| ![12k.exe photo]([img/12k.png] |
+| ![mix2k.exe photo]([https://github.com/charlihchen/DIY-Karaoke-subtitle/blob/main/img/mix2k.png]| ![12k.exe photo]([https://github.com/charlihchen/DIY-Karaoke-subtitle/blob/main/img/12k.png] |
 
 
 ```
