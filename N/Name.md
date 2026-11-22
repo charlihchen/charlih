@@ -20,7 +20,7 @@ exports:
 
 # Name
 
-## Why Charlih? Is it typo?
+## Why Charlih and not the Charlie? Is it typo?
 
 My name in Chinese has the "力" in the 2nd word and its English spelling is "Li".
 
