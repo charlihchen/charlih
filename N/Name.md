@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: Name
-abstract: ""
+abstract: "Why Charlih? Is it typo from Charlie?"
 authors:
   - name: Charlih Chen
 exports:
@@ -19,32 +19,6 @@ exports:
 ---
 
 # Name
-
-## Why Charlih? Is it typo?
-
-My name in Chinese has the 力 and its English spelling ---
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
-title: Name
-abstract: ""
-authors:
-  - name: Charlih Chen
-exports:
-  - format: typst
-    template: lapreprint-typst
-    output: _build/exports/typst/
----
-
-
-# Name
-
 
 ## Why Charlih? Is it typo?
 
