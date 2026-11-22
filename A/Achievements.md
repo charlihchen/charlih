@@ -22,6 +22,12 @@ exports:
 
 ## 2026
 
+My personal website created on GitHub on 06APR2026
+
+https://api.github.com/repos/charlihchen/charlih
+"created_at": "2026-04-06T22:34:42Z",
+"created_at": "YYYY-MM-DDTHH:MM:SSZ
+
 ## 2025
 
 - [3IATLAS, IVE-Supernova Love (超新星之愛)](https://youtube.com/shorts/i8BeD9YQ1FY) => [IVE-Supernova Love](https://youtu.be/fyk6vjwI3wc?si=p3q4yr-FVH5c_-DC)
