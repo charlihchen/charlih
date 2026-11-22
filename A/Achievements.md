@@ -51,3 +51,9 @@ Microsoft Windows Insider Program participant since for Twinhead.com (https://ww
 - in-person: Find your [campus Support Center’s](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0023963) contact information
 - Email: ithelp@iu.edu
 - [University Library](https://library.indianapolis.iu.edu/)
+
+## 1993
+
+[Chinese language](/C/Chinese_language.html)
+
+My College Essay for Society 340-01 class at https://www.uindy.edu
