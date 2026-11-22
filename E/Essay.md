@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: Essay
-abstract: ""
+abstract: "My College Essay"
 authors:
   - name: Charlih Chen
 exports:
@@ -19,6 +19,8 @@ exports:
 ---
 
 # Essay
+
+My College Essay for Society 340-01 class at https://www.uindy.edu
 
 ## [Chinese language](/C/Chinese_language.html)
 
