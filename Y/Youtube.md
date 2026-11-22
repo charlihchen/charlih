@@ -38,7 +38,7 @@ exports:
 5. [Quirky Pop-Make It a Beautiful Day.mkv (DIY KTV)](https://youtu.be/_sS7iI3mlg4)
 
 | No | YouTube Cover | Video | Uploaded Date | Viewed | Promote MV |
-|:---|:---|----|:---|:---|:---|
+|:---|:---|----|:---|:---|----|
 | 1 | <a href="https://www.youtube.com/watch?v=kjNCHI81CUk"><img src="https://img.youtube.com/vi/kjNCHI81CUk/0.jpg" alt="YouTube Video" width="100" height="50"></a> | [中華民國頌-費玉清](https://youtube.com/shorts/kjNCHI81CUk) | Sep 14, 2026 | 12604 | |
 | 2 | <a href="https://www.youtube.com/watch?v=cI8qsuat0Zc"><img src="https://img.youtube.com/vi/cI8qsuat0Zc/0.jpg" alt="YouTube Video" width="100" height="50"></a> | [別粘了 #KTV文盲 #调侃](https://youtube.com/shorts/cI8qsuat0Zc) | Sep 14, 2026 | 6522 | [林憶蓮+林俊傑-江南 (DIY KTV)](https://youtu.be/aljggaOHjW0) |
 | 3 | <a href="https://www.youtube.com/watch?v=s13kzGw_a_Q"><img src="https://img.youtube.com/vi/s13kzGw_a_Q/0.jpg" alt="YouTube Video" width="100" height="50"></a> | [BBC Earth TV program parade Wonderful world of puppies<br>Make it a beautiful day](https://youtu.be/s13kzGw_a_Q) | Sep 14, 2026 | 4028 | |
