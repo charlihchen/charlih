@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: OCR
-abstract: ""
+abstract: "OCR is image recognition. It stands for Optical Character Recognition"
 authors:
   - name: Charlih Chen
 exports:
@@ -35,3 +35,10 @@ Video Recognition (VR)
 In this way to allow machine to observer our world.
 - Compter Vision
 - Surveillance
+
+## KTVOCR
+
+https://github.com/charlihchen/KTVOCR
+
+My project called "KTVOCR" which is the Karaoke music video by using OCR to find its song title and singer from the video playing.
+
