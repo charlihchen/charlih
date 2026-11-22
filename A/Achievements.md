@@ -45,7 +45,7 @@ https://api.github.com/repos/charlih4index/indexbox
   
 ## 2024
 
-https://github.com/charlihchen/DIY-Karaoke-subtitle
+https://github.com/charlihchen/DIY-Karaoke-subtitle created at GitHub.com on 11AUG2024
 
 DIY Karaoke mixer App(s) help to create KTV video file from music video.
 
