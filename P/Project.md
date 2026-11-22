@@ -9,7 +9,7 @@ kernelspec:
   language: python
   name: python3
 title: Project
-abstract: ""
+abstract: "Every project starts with a spark of curiosity and a problem worth solving. This showcase highlights my hands-on builds—from developing web platforms like **indexbox.com** to preserving and exploring the **Chinese language and Zhuyin (ㄅㄆㄇㄈ)**. Each initiative marks a distinct **milestone** in my creative journey, driven by practical **breakthroughs** in code, design, and linguistic tools. Together, they represent an evolving **legacy** of turning ideas into functional, lasting resources."
 authors:
   - name: Charlih Chen
 exports:
