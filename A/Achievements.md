@@ -70,6 +70,6 @@ Microsoft Windows Insider Program participant since for Twinhead.com (https://ww
 
 ## 1993
 
-[Chinese language](/C/Chinese_language.html)
+[Chinese language](/C/Chinese_language.html) on November,29 1993
 
 My College Essay for Society 340-01 class at https://www.uindy.edu
