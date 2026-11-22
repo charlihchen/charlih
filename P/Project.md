@@ -30,4 +30,6 @@ My project(s) so far...
 
 ### [Zhuyin](https://indexbox.com/chinese/chinese/) AKA. BoPoMoFo aka. ㄅㄆㄇㄈ
 
-## Project #3: 
+## Project #3: KTVOCR
+
+### [KTVOCR](https://github.com/charlihchen/KTVOCR)
