@@ -52,4 +52,4 @@ My name in Chinese has the "力" in the 2nd word and its English spelling is "Li
 
 Therefore, I am thinking to combine portion of those two words "Character" and "Li" into my first name as "CHAR(acter)Li(h)" => "Charlih".
 
-![](logo.png "/Charlih Chen logo")
+![](/logo.png "Charlih Chen logo")
