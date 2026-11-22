@@ -22,7 +22,7 @@ exports:
 
 ## 2026
 
-My personal website https://charlih.com created on GitHub on 15SEP2026
+My personal website https://charlih.com created at GitHub.com on 15SEP2026
 
 ```
 https://api.github.com/repos/charlihchen/charlih
@@ -30,7 +30,7 @@ https://api.github.com/repos/charlihchen/charlih
 "created_at": "YYYY-MM-DDTHH:MM:SSZ
 ```
 
-My project https://indexbox.com created on GitHub on 21SEP2026
+My project https://indexbox.com created at GitHub.com on 21SEP2026
 
 ```
 https://api.github.com/repos/charlih4index/indexbox
