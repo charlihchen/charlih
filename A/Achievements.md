@@ -29,7 +29,7 @@ exports:
   
 ## 2013
 
-[DIY KTV](k/ktv)
+[DIY KTV](../k/ktv)
 
 ## 2008
 
