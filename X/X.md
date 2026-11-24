@@ -23,7 +23,7 @@ exports:
 ::::{grid} 1 2 2 2
 
 :::{card} X, formerly as Twitter
-:link: /x/x-twitter.md
+:link: /x/x-twitter
 :header: ![X](images/twitter2x-logo.jpg)
 X aka. Twitter for charlih Chen.
 

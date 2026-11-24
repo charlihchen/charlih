@@ -8,7 +8,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: X-Twintter
+title: X-Twitter
 abstract: "X, formerly Twitter"
 authors:
   - name: Charlih Chen

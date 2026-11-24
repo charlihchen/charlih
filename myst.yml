@@ -183,6 +183,7 @@ project:
     - title: X
       children:
         - file: X/X.md
+        - file: X/x-twitter.md
     - title: Y
       children:
         - file: Y/Y.md
